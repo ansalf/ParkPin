@@ -1,0 +1,3211 @@
+[
+  {
+    "index": 1,
+    "id": 1225,
+    "name": "01 \u2014 Home / Ready to Pin",
+    "screen_type": "Primary Screen with Bottom Nav",
+    "w": 393.0,
+    "h": 852.0,
+    "pos": [
+      100.0,
+      100.0
+    ],
+    "children_count": 20,
+    "has_status_bar": false,
+    "has_home_indicator": true,
+    "has_bottom_nav": true,
+    "content_top": 11.0,
+    "content_bottom": 801.0,
+    "content_span": 790.0,
+    "bottom_ref_type": "Bottom Nav Top (y=768.0)",
+    "bottom_gap": -33.0,
+    "content_layers": [
+      {
+        "id": 1226,
+        "name": "Dynamic Island",
+        "type": "frame",
+        "x": 134.0,
+        "y": 11.0,
+        "w": 125.0,
+        "h": 32.0,
+        "bottom": 43.0
+      },
+      {
+        "id": 1227,
+        "name": "Time",
+        "type": "text",
+        "x": 32.0,
+        "y": 17.0,
+        "w": 60.0,
+        "h": 18.0,
+        "bottom": 35.0
+      },
+      {
+        "id": 1228,
+        "name": "Status",
+        "type": "text",
+        "x": 280.0,
+        "y": 18.0,
+        "w": 81.0,
+        "h": 15.0,
+        "bottom": 33.0
+      },
+      {
+        "id": 1230,
+        "name": "Synced Badge",
+        "type": "frame",
+        "x": 285.0,
+        "y": 55.0,
+        "w": 88.0,
+        "h": 26.0,
+        "bottom": 81.0
+      },
+      {
+        "id": 1229,
+        "name": "ParkPin Brand",
+        "type": "text",
+        "x": 20.0,
+        "y": 56.0,
+        "w": 120.0,
+        "h": 27.0,
+        "bottom": 83.0
+      },
+      {
+        "id": 1231,
+        "name": "Synced Text",
+        "type": "text",
+        "x": 285.0,
+        "y": 61.0,
+        "w": 88.0,
+        "h": 13.0,
+        "bottom": 74.0
+      },
+      {
+        "id": 1232,
+        "name": "GPS Strip",
+        "type": "frame",
+        "x": 20.0,
+        "y": 96.0,
+        "w": 353.0,
+        "h": 36.0,
+        "bottom": 132.0
+      },
+      {
+        "id": 1233,
+        "name": "GPS Text",
+        "type": "text",
+        "x": 32.0,
+        "y": 106.0,
+        "w": 329.0,
+        "h": 15.0,
+        "bottom": 121.0
+      },
+      {
+        "id": 1234,
+        "name": "Hero Empty State Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 144.0,
+        "w": 353.0,
+        "h": 260.0,
+        "bottom": 404.0
+      },
+      {
+        "id": 1242,
+        "name": "Section Title",
+        "type": "text",
+        "x": 24.0,
+        "y": 420.0,
+        "w": 250.0,
+        "h": 13.0,
+        "bottom": 433.0
+      },
+      {
+        "id": 1243,
+        "name": "Garage Card 1",
+        "type": "frame",
+        "x": 20.0,
+        "y": 442.0,
+        "w": 353.0,
+        "h": 66.0,
+        "bottom": 508.0
+      },
+      {
+        "id": 1250,
+        "name": "Garage Card 2",
+        "type": "frame",
+        "x": 20.0,
+        "y": 518.0,
+        "w": 353.0,
+        "h": 66.0,
+        "bottom": 584.0
+      },
+      {
+        "id": 1257,
+        "name": "Garage Card 3",
+        "type": "frame",
+        "x": 20.0,
+        "y": 594.0,
+        "w": 353.0,
+        "h": 66.0,
+        "bottom": 660.0
+      },
+      {
+        "id": 1264,
+        "name": "Smart Tip Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 672.0,
+        "w": 353.0,
+        "h": 78.0,
+        "bottom": 750.0
+      },
+      {
+        "id": 1269,
+        "name": "Tab Home",
+        "type": "text",
+        "x": 0.0,
+        "y": 786.0,
+        "w": 131.0,
+        "h": 15.0,
+        "bottom": 801.0
+      },
+      {
+        "id": 1270,
+        "name": "Tab History",
+        "type": "text",
+        "x": 131.0,
+        "y": 786.0,
+        "w": 131.0,
+        "h": 15.0,
+        "bottom": 801.0
+      },
+      {
+        "id": 1271,
+        "name": "Tab Settings",
+        "type": "text",
+        "x": 262.0,
+        "y": 786.0,
+        "w": 131.0,
+        "h": 15.0,
+        "bottom": 801.0
+      }
+    ],
+    "buttons": [
+      {
+        "id": 1240,
+        "name": "Save Spot CTA Frame",
+        "x": 20.0,
+        "y": 192.0,
+        "w": 313.0,
+        "h": 48.0,
+        "bottom": 240.0
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "id": 1273,
+    "name": "02 \u2014 Save Parking Location",
+    "screen_type": "Content Screen with Sticky/Bottom CTA",
+    "w": 393.0,
+    "h": 852.0,
+    "pos": [
+      553.0,
+      100.0
+    ],
+    "children_count": 17,
+    "has_status_bar": false,
+    "has_home_indicator": true,
+    "has_bottom_nav": false,
+    "content_top": 11.0,
+    "content_bottom": 759.0,
+    "content_span": 748.0,
+    "bottom_ref_type": "Home Indicator Top (y=838.0)",
+    "bottom_gap": 79.0,
+    "content_layers": [
+      {
+        "id": 1274,
+        "name": "Dynamic Island",
+        "type": "frame",
+        "x": 134.0,
+        "y": 11.0,
+        "w": 125.0,
+        "h": 32.0,
+        "bottom": 43.0
+      },
+      {
+        "id": 1275,
+        "name": "Time",
+        "type": "text",
+        "x": 32.0,
+        "y": 17.0,
+        "w": 60.0,
+        "h": 18.0,
+        "bottom": 35.0
+      },
+      {
+        "id": 1276,
+        "name": "Status",
+        "type": "text",
+        "x": 280.0,
+        "y": 18.0,
+        "w": 81.0,
+        "h": 15.0,
+        "bottom": 33.0
+      },
+      {
+        "id": 1277,
+        "name": "Cancel",
+        "type": "text",
+        "x": 20.0,
+        "y": 56.0,
+        "w": 60.0,
+        "h": 18.0,
+        "bottom": 74.0
+      },
+      {
+        "id": 1278,
+        "name": "Nav Title",
+        "type": "text",
+        "x": 0.0,
+        "y": 56.0,
+        "w": 393.0,
+        "h": 21.0,
+        "bottom": 77.0
+      },
+      {
+        "id": 1279,
+        "name": "Save Action",
+        "type": "text",
+        "x": 310.0,
+        "y": 56.0,
+        "w": 63.0,
+        "h": 18.0,
+        "bottom": 74.0
+      },
+      {
+        "id": 1280,
+        "name": "Landmark Attached Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 96.0,
+        "w": 353.0,
+        "h": 76.0,
+        "bottom": 172.0
+      },
+      {
+        "id": 1286,
+        "name": "Building Garage Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 182.0,
+        "w": 353.0,
+        "h": 76.0,
+        "bottom": 258.0
+      },
+      {
+        "id": 1290,
+        "name": "Floor Level Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 268.0,
+        "w": 353.0,
+        "h": 80.0,
+        "bottom": 348.0
+      },
+      {
+        "id": 1304,
+        "name": "Zone Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 358.0,
+        "w": 171.0,
+        "h": 66.0,
+        "bottom": 424.0
+      },
+      {
+        "id": 1307,
+        "name": "Slot Card",
+        "type": "frame",
+        "x": 202.0,
+        "y": 358.0,
+        "w": 171.0,
+        "h": 66.0,
+        "bottom": 424.0
+      },
+      {
+        "id": 1310,
+        "name": "Notes Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 434.0,
+        "w": 353.0,
+        "h": 84.0,
+        "bottom": 518.0
+      },
+      {
+        "id": 1313,
+        "name": "Timer Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 528.0,
+        "w": 353.0,
+        "h": 80.0,
+        "bottom": 608.0
+      },
+      {
+        "id": 1323,
+        "name": "Vehicle Strip",
+        "type": "frame",
+        "x": 20.0,
+        "y": 618.0,
+        "w": 353.0,
+        "h": 46.0,
+        "bottom": 664.0
+      },
+      {
+        "id": 1326,
+        "name": "Save CTA Frame",
+        "type": "frame",
+        "x": 20.0,
+        "y": 680.0,
+        "w": 353.0,
+        "h": 52.0,
+        "bottom": 732.0
+      },
+      {
+        "id": 1328,
+        "name": "Disclaimer",
+        "type": "text",
+        "x": 20.0,
+        "y": 746.0,
+        "w": 353.0,
+        "h": 13.0,
+        "bottom": 759.0
+      }
+    ],
+    "buttons": [
+      {
+        "id": 1279,
+        "name": "Save Action",
+        "x": 310.0,
+        "y": 56.0,
+        "w": 63.0,
+        "h": 18.0,
+        "bottom": 74.0
+      },
+      {
+        "id": 1285,
+        "name": "Photo Actions",
+        "x": 74.0,
+        "y": 52.0,
+        "w": 250.0,
+        "h": 13.0,
+        "bottom": 65.0
+      },
+      {
+        "id": 1326,
+        "name": "Save CTA Frame",
+        "x": 20.0,
+        "y": 680.0,
+        "w": 353.0,
+        "h": 52.0,
+        "bottom": 732.0
+      },
+      {
+        "id": 1327,
+        "name": "Save CTA Text",
+        "x": 0.0,
+        "y": 16.0,
+        "w": 353.0,
+        "h": 18.0,
+        "bottom": 34.0
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "id": 1330,
+    "name": "03 \u2014 Home / Active Parking",
+    "screen_type": "Primary Screen with Bottom Nav",
+    "w": 393.0,
+    "h": 852.0,
+    "pos": [
+      1006.0,
+      100.0
+    ],
+    "children_count": 21,
+    "has_status_bar": false,
+    "has_home_indicator": true,
+    "has_bottom_nav": true,
+    "content_top": 11.0,
+    "content_bottom": 801.0,
+    "content_span": 790.0,
+    "bottom_ref_type": "Bottom Nav Top (y=768.0)",
+    "bottom_gap": -33.0,
+    "content_layers": [
+      {
+        "id": 1331,
+        "name": "Dynamic Island",
+        "type": "frame",
+        "x": 134.0,
+        "y": 11.0,
+        "w": 125.0,
+        "h": 32.0,
+        "bottom": 43.0
+      },
+      {
+        "id": 1332,
+        "name": "Time",
+        "type": "text",
+        "x": 32.0,
+        "y": 17.0,
+        "w": 60.0,
+        "h": 18.0,
+        "bottom": 35.0
+      },
+      {
+        "id": 1333,
+        "name": "Status",
+        "type": "text",
+        "x": 280.0,
+        "y": 18.0,
+        "w": 81.0,
+        "h": 15.0,
+        "bottom": 33.0
+      },
+      {
+        "id": 1335,
+        "name": "Active Badge Frame",
+        "type": "frame",
+        "x": 240.0,
+        "y": 55.0,
+        "w": 133.0,
+        "h": 26.0,
+        "bottom": 81.0
+      },
+      {
+        "id": 1334,
+        "name": "ParkPin Brand",
+        "type": "text",
+        "x": 20.0,
+        "y": 56.0,
+        "w": 120.0,
+        "h": 27.0,
+        "bottom": 83.0
+      },
+      {
+        "id": 1337,
+        "name": "Live Timer HUD",
+        "type": "frame",
+        "x": 20.0,
+        "y": 96.0,
+        "w": 353.0,
+        "h": 92.0,
+        "bottom": 188.0
+      },
+      {
+        "id": 1342,
+        "name": "Spot Details Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 200.0,
+        "w": 353.0,
+        "h": 248.0,
+        "bottom": 448.0
+      },
+      {
+        "id": 1358,
+        "name": "QA Landmark Frame",
+        "type": "frame",
+        "x": 20.0,
+        "y": 462.0,
+        "w": 170.0,
+        "h": 44.0,
+        "bottom": 506.0
+      },
+      {
+        "id": 1360,
+        "name": "QA Bearing Frame",
+        "type": "frame",
+        "x": 203.0,
+        "y": 462.0,
+        "w": 170.0,
+        "h": 44.0,
+        "bottom": 506.0
+      },
+      {
+        "id": 1362,
+        "name": "QA Share Frame",
+        "type": "frame",
+        "x": 20.0,
+        "y": 514.0,
+        "w": 170.0,
+        "h": 44.0,
+        "bottom": 558.0
+      },
+      {
+        "id": 1364,
+        "name": "QA Alarm Frame",
+        "type": "frame",
+        "x": 203.0,
+        "y": 514.0,
+        "w": 170.0,
+        "h": 44.0,
+        "bottom": 558.0
+      },
+      {
+        "id": 1366,
+        "name": "Find Vehicle Frame",
+        "type": "frame",
+        "x": 20.0,
+        "y": 612.0,
+        "w": 353.0,
+        "h": 52.0,
+        "bottom": 664.0
+      },
+      {
+        "id": 1368,
+        "name": "Edit Details Frame",
+        "type": "frame",
+        "x": 20.0,
+        "y": 674.0,
+        "w": 170.0,
+        "h": 44.0,
+        "bottom": 718.0
+      },
+      {
+        "id": 1370,
+        "name": "End Parking Frame",
+        "type": "frame",
+        "x": 203.0,
+        "y": 674.0,
+        "w": 170.0,
+        "h": 44.0,
+        "bottom": 718.0
+      },
+      {
+        "id": 1372,
+        "name": "Active GPS",
+        "type": "text",
+        "x": 20.0,
+        "y": 730.0,
+        "w": 353.0,
+        "h": 13.0,
+        "bottom": 743.0
+      },
+      {
+        "id": 1375,
+        "name": "Tab Home",
+        "type": "text",
+        "x": 0.0,
+        "y": 786.0,
+        "w": 131.0,
+        "h": 15.0,
+        "bottom": 801.0
+      },
+      {
+        "id": 1376,
+        "name": "Tab History",
+        "type": "text",
+        "x": 131.0,
+        "y": 786.0,
+        "w": 131.0,
+        "h": 15.0,
+        "bottom": 801.0
+      },
+      {
+        "id": 1377,
+        "name": "Tab Settings",
+        "type": "text",
+        "x": 262.0,
+        "y": 786.0,
+        "w": 131.0,
+        "h": 15.0,
+        "bottom": 801.0
+      }
+    ],
+    "buttons": []
+  },
+  {
+    "index": 4,
+    "id": 1379,
+    "name": "04 \u2014 Find My Vehicle",
+    "screen_type": "Content Screen with Sticky/Bottom CTA",
+    "w": 393.0,
+    "h": 852.0,
+    "pos": [
+      1459.0,
+      100.0
+    ],
+    "children_count": 15,
+    "has_status_bar": false,
+    "has_home_indicator": true,
+    "has_bottom_nav": false,
+    "content_top": 11.0,
+    "content_bottom": 811.0,
+    "content_span": 800.0,
+    "bottom_ref_type": "Home Indicator Top (y=838.0)",
+    "bottom_gap": 27.0,
+    "content_layers": [
+      {
+        "id": 1380,
+        "name": "Dynamic Island",
+        "type": "frame",
+        "x": 134.0,
+        "y": 11.0,
+        "w": 125.0,
+        "h": 32.0,
+        "bottom": 43.0
+      },
+      {
+        "id": 1381,
+        "name": "Time",
+        "type": "text",
+        "x": 32.0,
+        "y": 17.0,
+        "w": 60.0,
+        "h": 18.0,
+        "bottom": 35.0
+      },
+      {
+        "id": 1382,
+        "name": "Status",
+        "type": "text",
+        "x": 280.0,
+        "y": 18.0,
+        "w": 81.0,
+        "h": 15.0,
+        "bottom": 33.0
+      },
+      {
+        "id": 1383,
+        "name": "Back",
+        "type": "text",
+        "x": 20.0,
+        "y": 56.0,
+        "w": 60.0,
+        "h": 18.0,
+        "bottom": 74.0
+      },
+      {
+        "id": 1384,
+        "name": "Nav Title",
+        "type": "text",
+        "x": 0.0,
+        "y": 56.0,
+        "w": 393.0,
+        "h": 21.0,
+        "bottom": 77.0
+      },
+      {
+        "id": 1385,
+        "name": "Close Action",
+        "type": "text",
+        "x": 310.0,
+        "y": 56.0,
+        "w": 63.0,
+        "h": 18.0,
+        "bottom": 74.0
+      },
+      {
+        "id": 1386,
+        "name": "Compass HUD",
+        "type": "frame",
+        "x": 20.0,
+        "y": 96.0,
+        "w": 353.0,
+        "h": 104.0,
+        "bottom": 200.0
+      },
+      {
+        "id": 1390,
+        "name": "Where You Parked Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 214.0,
+        "w": 353.0,
+        "h": 96.0,
+        "bottom": 310.0
+      },
+      {
+        "id": 1395,
+        "name": "Pedestrian Directions Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 324.0,
+        "w": 353.0,
+        "h": 124.0,
+        "bottom": 448.0
+      },
+      {
+        "id": 1400,
+        "name": "Landmark Viewer Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 462.0,
+        "w": 353.0,
+        "h": 84.0,
+        "bottom": 546.0
+      },
+      {
+        "id": 1406,
+        "name": "Open Maps Frame",
+        "type": "frame",
+        "x": 20.0,
+        "y": 560.0,
+        "w": 353.0,
+        "h": 50.0,
+        "bottom": 610.0
+      },
+      {
+        "id": 1408,
+        "name": "GPS Warn",
+        "type": "text",
+        "x": 20.0,
+        "y": 622.0,
+        "w": 353.0,
+        "h": 13.0,
+        "bottom": 635.0
+      },
+      {
+        "id": 1409,
+        "name": "Found Car Frame",
+        "type": "frame",
+        "x": 20.0,
+        "y": 736.0,
+        "w": 353.0,
+        "h": 52.0,
+        "bottom": 788.0
+      },
+      {
+        "id": 1411,
+        "name": "Found Sub",
+        "type": "text",
+        "x": 20.0,
+        "y": 798.0,
+        "w": 353.0,
+        "h": 13.0,
+        "bottom": 811.0
+      }
+    ],
+    "buttons": [
+      {
+        "id": 1385,
+        "name": "Close Action",
+        "x": 310.0,
+        "y": 56.0,
+        "w": 63.0,
+        "h": 18.0,
+        "bottom": 74.0
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "id": 1413,
+    "name": "05 \u2014 Parking History",
+    "screen_type": "Primary Screen with Bottom Nav",
+    "w": 393.0,
+    "h": 852.0,
+    "pos": [
+      100.0,
+      1020.0
+    ],
+    "children_count": 23,
+    "has_status_bar": false,
+    "has_home_indicator": true,
+    "has_bottom_nav": true,
+    "content_top": 11.0,
+    "content_bottom": 801.0,
+    "content_span": 790.0,
+    "bottom_ref_type": "Bottom Nav Top (y=768.0)",
+    "bottom_gap": -33.0,
+    "content_layers": [
+      {
+        "id": 1414,
+        "name": "Dynamic Island",
+        "type": "frame",
+        "x": 134.0,
+        "y": 11.0,
+        "w": 125.0,
+        "h": 32.0,
+        "bottom": 43.0
+      },
+      {
+        "id": 1415,
+        "name": "Time",
+        "type": "text",
+        "x": 32.0,
+        "y": 17.0,
+        "w": 60.0,
+        "h": 18.0,
+        "bottom": 35.0
+      },
+      {
+        "id": 1416,
+        "name": "Status",
+        "type": "text",
+        "x": 280.0,
+        "y": 18.0,
+        "w": 81.0,
+        "h": 15.0,
+        "bottom": 33.0
+      },
+      {
+        "id": 1418,
+        "name": "Records Pill Frame",
+        "type": "frame",
+        "x": 280.0,
+        "y": 54.0,
+        "w": 93.0,
+        "h": 28.0,
+        "bottom": 82.0
+      },
+      {
+        "id": 1417,
+        "name": "History Title",
+        "type": "text",
+        "x": 20.0,
+        "y": 56.0,
+        "w": 180.0,
+        "h": 27.0,
+        "bottom": 83.0
+      },
+      {
+        "id": 1420,
+        "name": "Search Box",
+        "type": "frame",
+        "x": 20.0,
+        "y": 96.0,
+        "w": 353.0,
+        "h": 42.0,
+        "bottom": 138.0
+      },
+      {
+        "id": 1422,
+        "name": "Chip All",
+        "type": "frame",
+        "x": 20.0,
+        "y": 148.0,
+        "w": 72.0,
+        "h": 32.0,
+        "bottom": 180.0
+      },
+      {
+        "id": 1424,
+        "name": "Chip Month",
+        "type": "frame",
+        "x": 100.0,
+        "y": 148.0,
+        "w": 96.0,
+        "h": 32.0,
+        "bottom": 180.0
+      },
+      {
+        "id": 1426,
+        "name": "Chip Photos",
+        "type": "frame",
+        "x": 204.0,
+        "y": 148.0,
+        "w": 102.0,
+        "h": 32.0,
+        "bottom": 180.0
+      },
+      {
+        "id": 1428,
+        "name": "Stats Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 190.0,
+        "w": 353.0,
+        "h": 52.0,
+        "bottom": 242.0
+      },
+      {
+        "id": 1431,
+        "name": "Active Record Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 252.0,
+        "w": 353.0,
+        "h": 72.0,
+        "bottom": 324.0
+      },
+      {
+        "id": 1435,
+        "name": "History Section",
+        "type": "text",
+        "x": 24.0,
+        "y": 334.0,
+        "w": 250.0,
+        "h": 13.0,
+        "bottom": 347.0
+      },
+      {
+        "id": 1436,
+        "name": "History Item 1",
+        "type": "frame",
+        "x": 20.0,
+        "y": 352.0,
+        "w": 353.0,
+        "h": 66.0,
+        "bottom": 418.0
+      },
+      {
+        "id": 1444,
+        "name": "History Item 2",
+        "type": "frame",
+        "x": 20.0,
+        "y": 428.0,
+        "w": 353.0,
+        "h": 66.0,
+        "bottom": 494.0
+      },
+      {
+        "id": 1452,
+        "name": "History Item 3",
+        "type": "frame",
+        "x": 20.0,
+        "y": 504.0,
+        "w": 353.0,
+        "h": 66.0,
+        "bottom": 570.0
+      },
+      {
+        "id": 1460,
+        "name": "History Item 4",
+        "type": "frame",
+        "x": 20.0,
+        "y": 580.0,
+        "w": 353.0,
+        "h": 66.0,
+        "bottom": 646.0
+      },
+      {
+        "id": 1468,
+        "name": "History Item 5",
+        "type": "frame",
+        "x": 20.0,
+        "y": 656.0,
+        "w": 353.0,
+        "h": 66.0,
+        "bottom": 722.0
+      },
+      {
+        "id": 1478,
+        "name": "Tab Home",
+        "type": "text",
+        "x": 0.0,
+        "y": 786.0,
+        "w": 131.0,
+        "h": 15.0,
+        "bottom": 801.0
+      },
+      {
+        "id": 1479,
+        "name": "Tab History",
+        "type": "text",
+        "x": 131.0,
+        "y": 786.0,
+        "w": 131.0,
+        "h": 15.0,
+        "bottom": 801.0
+      },
+      {
+        "id": 1480,
+        "name": "Tab Settings",
+        "type": "text",
+        "x": 262.0,
+        "y": 786.0,
+        "w": 131.0,
+        "h": 15.0,
+        "bottom": 801.0
+      }
+    ],
+    "buttons": []
+  },
+  {
+    "index": 6,
+    "id": 1482,
+    "name": "06 \u2014 Parking Record Detail",
+    "screen_type": "Content Screen with Sticky/Bottom CTA",
+    "w": 393.0,
+    "h": 852.0,
+    "pos": [
+      553.0,
+      1020.0
+    ],
+    "children_count": 17,
+    "has_status_bar": false,
+    "has_home_indicator": true,
+    "has_bottom_nav": false,
+    "content_top": 11.0,
+    "content_bottom": 753.0,
+    "content_span": 742.0,
+    "bottom_ref_type": "Home Indicator Top (y=838.0)",
+    "bottom_gap": 85.0,
+    "content_layers": [
+      {
+        "id": 1483,
+        "name": "Dynamic Island",
+        "type": "frame",
+        "x": 134.0,
+        "y": 11.0,
+        "w": 125.0,
+        "h": 32.0,
+        "bottom": 43.0
+      },
+      {
+        "id": 1484,
+        "name": "Time",
+        "type": "text",
+        "x": 32.0,
+        "y": 17.0,
+        "w": 60.0,
+        "h": 18.0,
+        "bottom": 35.0
+      },
+      {
+        "id": 1485,
+        "name": "Status",
+        "type": "text",
+        "x": 280.0,
+        "y": 18.0,
+        "w": 81.0,
+        "h": 15.0,
+        "bottom": 33.0
+      },
+      {
+        "id": 1486,
+        "name": "Back",
+        "type": "text",
+        "x": 20.0,
+        "y": 56.0,
+        "w": 70.0,
+        "h": 18.0,
+        "bottom": 74.0
+      },
+      {
+        "id": 1487,
+        "name": "Nav Title",
+        "type": "text",
+        "x": 0.0,
+        "y": 56.0,
+        "w": 393.0,
+        "h": 21.0,
+        "bottom": 77.0
+      },
+      {
+        "id": 1488,
+        "name": "Share Action",
+        "type": "text",
+        "x": 310.0,
+        "y": 56.0,
+        "w": 63.0,
+        "h": 18.0,
+        "bottom": 74.0
+      },
+      {
+        "id": 1489,
+        "name": "Landmark Banner Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 96.0,
+        "w": 353.0,
+        "h": 136.0,
+        "bottom": 232.0
+      },
+      {
+        "id": 1496,
+        "name": "Structure Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 244.0,
+        "w": 353.0,
+        "h": 80.0,
+        "bottom": 324.0
+      },
+      {
+        "id": 1502,
+        "name": "Date Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 336.0,
+        "w": 171.0,
+        "h": 64.0,
+        "bottom": 400.0
+      },
+      {
+        "id": 1505,
+        "name": "Duration Card",
+        "type": "frame",
+        "x": 202.0,
+        "y": 336.0,
+        "w": 171.0,
+        "h": 64.0,
+        "bottom": 400.0
+      },
+      {
+        "id": 1508,
+        "name": "Notes Box",
+        "type": "frame",
+        "x": 20.0,
+        "y": 412.0,
+        "w": 353.0,
+        "h": 76.0,
+        "bottom": 488.0
+      },
+      {
+        "id": 1511,
+        "name": "GPS Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 500.0,
+        "w": 353.0,
+        "h": 56.0,
+        "bottom": 556.0
+      },
+      {
+        "id": 1514,
+        "name": "Vehicle Tag Strip",
+        "type": "frame",
+        "x": 20.0,
+        "y": 568.0,
+        "w": 353.0,
+        "h": 42.0,
+        "bottom": 610.0
+      },
+      {
+        "id": 1516,
+        "name": "Open Maps Frame",
+        "type": "frame",
+        "x": 20.0,
+        "y": 622.0,
+        "w": 353.0,
+        "h": 50.0,
+        "bottom": 672.0
+      },
+      {
+        "id": 1518,
+        "name": "Delete Button Frame",
+        "type": "frame",
+        "x": 20.0,
+        "y": 682.0,
+        "w": 353.0,
+        "h": 46.0,
+        "bottom": 728.0
+      },
+      {
+        "id": 1520,
+        "name": "Arch Footer",
+        "type": "text",
+        "x": 20.0,
+        "y": 740.0,
+        "w": 353.0,
+        "h": 13.0,
+        "bottom": 753.0
+      }
+    ],
+    "buttons": [
+      {
+        "id": 1488,
+        "name": "Share Action",
+        "x": 310.0,
+        "y": 56.0,
+        "w": 63.0,
+        "h": 18.0,
+        "bottom": 74.0
+      },
+      {
+        "id": 1499,
+        "name": "Archived Pill Frame",
+        "x": 246.0,
+        "y": 32.0,
+        "w": 91.0,
+        "h": 24.0,
+        "bottom": 56.0
+      },
+      {
+        "id": 1518,
+        "name": "Delete Button Frame",
+        "x": 20.0,
+        "y": 682.0,
+        "w": 353.0,
+        "h": 46.0,
+        "bottom": 728.0
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "id": 1522,
+    "name": "07 \u2014 Settings & Account",
+    "screen_type": "Primary Screen with Bottom Nav",
+    "w": 393.0,
+    "h": 852.0,
+    "pos": [
+      1006.0,
+      1020.0
+    ],
+    "children_count": 20,
+    "has_status_bar": false,
+    "has_home_indicator": true,
+    "has_bottom_nav": true,
+    "content_top": 11.0,
+    "content_bottom": 801.0,
+    "content_span": 790.0,
+    "bottom_ref_type": "Bottom Nav Top (y=768.0)",
+    "bottom_gap": -33.0,
+    "content_layers": [
+      {
+        "id": 1523,
+        "name": "Dynamic Island",
+        "type": "frame",
+        "x": 134.0,
+        "y": 11.0,
+        "w": 125.0,
+        "h": 32.0,
+        "bottom": 43.0
+      },
+      {
+        "id": 1524,
+        "name": "Time",
+        "type": "text",
+        "x": 32.0,
+        "y": 17.0,
+        "w": 60.0,
+        "h": 18.0,
+        "bottom": 35.0
+      },
+      {
+        "id": 1525,
+        "name": "Status",
+        "type": "text",
+        "x": 280.0,
+        "y": 18.0,
+        "w": 81.0,
+        "h": 15.0,
+        "bottom": 33.0
+      },
+      {
+        "id": 1526,
+        "name": "Nav Title",
+        "type": "text",
+        "x": 0.0,
+        "y": 56.0,
+        "w": 393.0,
+        "h": 21.0,
+        "bottom": 77.0
+      },
+      {
+        "id": 1527,
+        "name": "User Profile Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 96.0,
+        "w": 353.0,
+        "h": 76.0,
+        "bottom": 172.0
+      },
+      {
+        "id": 1533,
+        "name": "Cloud Sync HUD",
+        "type": "frame",
+        "x": 20.0,
+        "y": 182.0,
+        "w": 353.0,
+        "h": 60.0,
+        "bottom": 242.0
+      },
+      {
+        "id": 1537,
+        "name": "Sec1 Title",
+        "type": "text",
+        "x": 24.0,
+        "y": 256.0,
+        "w": 250.0,
+        "h": 13.0,
+        "bottom": 269.0
+      },
+      {
+        "id": 1538,
+        "name": "Sync Preferences Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 274.0,
+        "w": 353.0,
+        "h": 114.0,
+        "bottom": 388.0
+      },
+      {
+        "id": 1547,
+        "name": "Sec2 Title",
+        "type": "text",
+        "x": 24.0,
+        "y": 400.0,
+        "w": 250.0,
+        "h": 13.0,
+        "bottom": 413.0
+      },
+      {
+        "id": 1548,
+        "name": "Parking Preferences Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 418.0,
+        "w": 353.0,
+        "h": 114.0,
+        "bottom": 532.0
+      },
+      {
+        "id": 1557,
+        "name": "Sec3 Title",
+        "type": "text",
+        "x": 24.0,
+        "y": 544.0,
+        "w": 250.0,
+        "h": 13.0,
+        "bottom": 557.0
+      },
+      {
+        "id": 1558,
+        "name": "Data Management Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 562.0,
+        "w": 353.0,
+        "h": 78.0,
+        "bottom": 640.0
+      },
+      {
+        "id": 1564,
+        "name": "Sign Out Frame",
+        "type": "frame",
+        "x": 20.0,
+        "y": 652.0,
+        "w": 353.0,
+        "h": 44.0,
+        "bottom": 696.0
+      },
+      {
+        "id": 1566,
+        "name": "App Version",
+        "type": "text",
+        "x": 20.0,
+        "y": 710.0,
+        "w": 353.0,
+        "h": 13.0,
+        "bottom": 723.0
+      },
+      {
+        "id": 1569,
+        "name": "Tab Home",
+        "type": "text",
+        "x": 0.0,
+        "y": 786.0,
+        "w": 131.0,
+        "h": 15.0,
+        "bottom": 801.0
+      },
+      {
+        "id": 1570,
+        "name": "Tab History",
+        "type": "text",
+        "x": 131.0,
+        "y": 786.0,
+        "w": 131.0,
+        "h": 15.0,
+        "bottom": 801.0
+      },
+      {
+        "id": 1571,
+        "name": "Tab Settings",
+        "type": "text",
+        "x": 262.0,
+        "y": 786.0,
+        "w": 131.0,
+        "h": 15.0,
+        "bottom": 801.0
+      }
+    ],
+    "buttons": [
+      {
+        "id": 1535,
+        "name": "HUD Action",
+        "x": 240.0,
+        "y": 14.0,
+        "w": 97.0,
+        "h": 13.0,
+        "bottom": 27.0
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "id": 1573,
+    "name": "08 \u2014 Cloud Sync & Offline Status",
+    "screen_type": "Content Screen with Sticky/Bottom CTA",
+    "w": 393.0,
+    "h": 852.0,
+    "pos": [
+      1459.0,
+      1020.0
+    ],
+    "children_count": 17,
+    "has_status_bar": false,
+    "has_home_indicator": true,
+    "has_bottom_nav": false,
+    "content_top": 11.0,
+    "content_bottom": 811.0,
+    "content_span": 800.0,
+    "bottom_ref_type": "Home Indicator Top (y=838.0)",
+    "bottom_gap": 27.0,
+    "content_layers": [
+      {
+        "id": 1574,
+        "name": "Dynamic Island",
+        "type": "frame",
+        "x": 134.0,
+        "y": 11.0,
+        "w": 125.0,
+        "h": 32.0,
+        "bottom": 43.0
+      },
+      {
+        "id": 1575,
+        "name": "Time",
+        "type": "text",
+        "x": 32.0,
+        "y": 17.0,
+        "w": 60.0,
+        "h": 18.0,
+        "bottom": 35.0
+      },
+      {
+        "id": 1576,
+        "name": "Status",
+        "type": "text",
+        "x": 280.0,
+        "y": 18.0,
+        "w": 81.0,
+        "h": 15.0,
+        "bottom": 33.0
+      },
+      {
+        "id": 1577,
+        "name": "Back",
+        "type": "text",
+        "x": 20.0,
+        "y": 56.0,
+        "w": 95.0,
+        "h": 18.0,
+        "bottom": 74.0
+      },
+      {
+        "id": 1578,
+        "name": "Nav Title",
+        "type": "text",
+        "x": 0.0,
+        "y": 56.0,
+        "w": 393.0,
+        "h": 21.0,
+        "bottom": 77.0
+      },
+      {
+        "id": 1579,
+        "name": "Refresh Action",
+        "type": "text",
+        "x": 305.0,
+        "y": 56.0,
+        "w": 68.0,
+        "h": 18.0,
+        "bottom": 74.0
+      },
+      {
+        "id": 1580,
+        "name": "Status Banner Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 96.0,
+        "w": 353.0,
+        "h": 92.0,
+        "bottom": 188.0
+      },
+      {
+        "id": 1586,
+        "name": "Metric 1",
+        "type": "frame",
+        "x": 20.0,
+        "y": 200.0,
+        "w": 171.0,
+        "h": 72.0,
+        "bottom": 272.0
+      },
+      {
+        "id": 1589,
+        "name": "Metric 2",
+        "type": "frame",
+        "x": 202.0,
+        "y": 200.0,
+        "w": 171.0,
+        "h": 72.0,
+        "bottom": 272.0
+      },
+      {
+        "id": 1592,
+        "name": "Metric 3",
+        "type": "frame",
+        "x": 20.0,
+        "y": 284.0,
+        "w": 171.0,
+        "h": 72.0,
+        "bottom": 356.0
+      },
+      {
+        "id": 1595,
+        "name": "Metric 4",
+        "type": "frame",
+        "x": 202.0,
+        "y": 284.0,
+        "w": 171.0,
+        "h": 72.0,
+        "bottom": 356.0
+      },
+      {
+        "id": 1598,
+        "name": "Offline Info Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 368.0,
+        "w": 353.0,
+        "h": 110.0,
+        "bottom": 478.0
+      },
+      {
+        "id": 1601,
+        "name": "Recent Events Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 490.0,
+        "w": 353.0,
+        "h": 126.0,
+        "bottom": 616.0
+      },
+      {
+        "id": 1606,
+        "name": "Health Status",
+        "type": "text",
+        "x": 20.0,
+        "y": 590.0,
+        "w": 353.0,
+        "h": 13.0,
+        "bottom": 603.0
+      },
+      {
+        "id": 1607,
+        "name": "Force Sync Frame",
+        "type": "frame",
+        "x": 20.0,
+        "y": 736.0,
+        "w": 353.0,
+        "h": 52.0,
+        "bottom": 788.0
+      },
+      {
+        "id": 1609,
+        "name": "Clear Cache",
+        "type": "text",
+        "x": 20.0,
+        "y": 798.0,
+        "w": 353.0,
+        "h": 13.0,
+        "bottom": 811.0
+      }
+    ],
+    "buttons": [
+      {
+        "id": 1579,
+        "name": "Refresh Action",
+        "x": 305.0,
+        "y": 56.0,
+        "w": 68.0,
+        "h": 18.0,
+        "bottom": 74.0
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "id": 1611,
+    "name": "STATE_01_HISTORY_EMPTY",
+    "screen_type": "Primary Screen with Bottom Nav",
+    "w": 393.0,
+    "h": 852.0,
+    "pos": [
+      100.0,
+      1940.0
+    ],
+    "children_count": 17,
+    "has_status_bar": false,
+    "has_home_indicator": true,
+    "has_bottom_nav": true,
+    "content_top": 11.0,
+    "content_bottom": 801.0,
+    "content_span": 790.0,
+    "bottom_ref_type": "Bottom Nav Top (y=768.0)",
+    "bottom_gap": -33.0,
+    "content_layers": [
+      {
+        "id": 1612,
+        "name": "Dynamic Island",
+        "type": "frame",
+        "x": 134.0,
+        "y": 11.0,
+        "w": 125.0,
+        "h": 32.0,
+        "bottom": 43.0
+      },
+      {
+        "id": 1613,
+        "name": "Time",
+        "type": "text",
+        "x": 32.0,
+        "y": 17.0,
+        "w": 60.0,
+        "h": 18.0,
+        "bottom": 35.0
+      },
+      {
+        "id": 1614,
+        "name": "Status",
+        "type": "text",
+        "x": 280.0,
+        "y": 18.0,
+        "w": 81.0,
+        "h": 15.0,
+        "bottom": 33.0
+      },
+      {
+        "id": 1616,
+        "name": "Records Pill Frame",
+        "type": "frame",
+        "x": 280.0,
+        "y": 54.0,
+        "w": 93.0,
+        "h": 28.0,
+        "bottom": 82.0
+      },
+      {
+        "id": 1615,
+        "name": "History Title",
+        "type": "text",
+        "x": 20.0,
+        "y": 56.0,
+        "w": 180.0,
+        "h": 27.0,
+        "bottom": 83.0
+      },
+      {
+        "id": 1618,
+        "name": "Search Box",
+        "type": "frame",
+        "x": 20.0,
+        "y": 96.0,
+        "w": 353.0,
+        "h": 42.0,
+        "bottom": 138.0
+      },
+      {
+        "id": 1620,
+        "name": "Chip All",
+        "type": "frame",
+        "x": 20.0,
+        "y": 148.0,
+        "w": 72.0,
+        "h": 32.0,
+        "bottom": 180.0
+      },
+      {
+        "id": 1622,
+        "name": "Chip Month",
+        "type": "frame",
+        "x": 100.0,
+        "y": 148.0,
+        "w": 96.0,
+        "h": 32.0,
+        "bottom": 180.0
+      },
+      {
+        "id": 1624,
+        "name": "Chip Photos",
+        "type": "frame",
+        "x": 204.0,
+        "y": 148.0,
+        "w": 96.0,
+        "h": 32.0,
+        "bottom": 180.0
+      },
+      {
+        "id": 1626,
+        "name": "Empty State Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 202.0,
+        "w": 353.0,
+        "h": 440.0,
+        "bottom": 642.0
+      },
+      {
+        "id": 1637,
+        "name": "Tip Box",
+        "type": "frame",
+        "x": 20.0,
+        "y": 662.0,
+        "w": 353.0,
+        "h": 84.0,
+        "bottom": 746.0
+      },
+      {
+        "id": 1642,
+        "name": "Tab Home",
+        "type": "text",
+        "x": 0.0,
+        "y": 786.0,
+        "w": 131.0,
+        "h": 15.0,
+        "bottom": 801.0
+      },
+      {
+        "id": 1643,
+        "name": "Tab History",
+        "type": "text",
+        "x": 131.0,
+        "y": 786.0,
+        "w": 131.0,
+        "h": 15.0,
+        "bottom": 801.0
+      },
+      {
+        "id": 1644,
+        "name": "Tab Settings",
+        "type": "text",
+        "x": 262.0,
+        "y": 786.0,
+        "w": 131.0,
+        "h": 15.0,
+        "bottom": 801.0
+      }
+    ],
+    "buttons": [
+      {
+        "id": 1634,
+        "name": "CTA Frame",
+        "x": 20.0,
+        "y": 340.0,
+        "w": 313.0,
+        "h": 48.0,
+        "bottom": 388.0
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "id": 1646,
+    "name": "STATE_02_INITIAL_LOADING",
+    "screen_type": "Primary Screen with Bottom Nav",
+    "w": 393.0,
+    "h": 852.0,
+    "pos": [
+      553.0,
+      1940.0
+    ],
+    "children_count": 17,
+    "has_status_bar": false,
+    "has_home_indicator": true,
+    "has_bottom_nav": true,
+    "content_top": 11.0,
+    "content_bottom": 801.0,
+    "content_span": 790.0,
+    "bottom_ref_type": "Bottom Nav Top (y=768.0)",
+    "bottom_gap": -33.0,
+    "content_layers": [
+      {
+        "id": 1647,
+        "name": "Dynamic Island",
+        "type": "frame",
+        "x": 134.0,
+        "y": 11.0,
+        "w": 125.0,
+        "h": 32.0,
+        "bottom": 43.0
+      },
+      {
+        "id": 1648,
+        "name": "Time",
+        "type": "text",
+        "x": 32.0,
+        "y": 17.0,
+        "w": 60.0,
+        "h": 18.0,
+        "bottom": 35.0
+      },
+      {
+        "id": 1649,
+        "name": "Status",
+        "type": "text",
+        "x": 280.0,
+        "y": 18.0,
+        "w": 81.0,
+        "h": 15.0,
+        "bottom": 33.0
+      },
+      {
+        "id": 1651,
+        "name": "Syncing Pill Frame",
+        "type": "frame",
+        "x": 270.0,
+        "y": 55.0,
+        "w": 103.0,
+        "h": 26.0,
+        "bottom": 81.0
+      },
+      {
+        "id": 1650,
+        "name": "ParkPin Brand",
+        "type": "text",
+        "x": 20.0,
+        "y": 56.0,
+        "w": 120.0,
+        "h": 27.0,
+        "bottom": 83.0
+      },
+      {
+        "id": 1653,
+        "name": "Loading Context Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 96.0,
+        "w": 353.0,
+        "h": 68.0,
+        "bottom": 164.0
+      },
+      {
+        "id": 1656,
+        "name": "Skeleton Spot Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 178.0,
+        "w": 353.0,
+        "h": 180.0,
+        "bottom": 358.0
+      },
+      {
+        "id": 1660,
+        "name": "Skeleton History Card 1",
+        "type": "frame",
+        "x": 20.0,
+        "y": 374.0,
+        "w": 353.0,
+        "h": 84.0,
+        "bottom": 458.0
+      },
+      {
+        "id": 1664,
+        "name": "Skeleton History Card 2",
+        "type": "frame",
+        "x": 20.0,
+        "y": 471.0,
+        "w": 353.0,
+        "h": 84.0,
+        "bottom": 555.0
+      },
+      {
+        "id": 1668,
+        "name": "Skeleton History Card 3",
+        "type": "frame",
+        "x": 20.0,
+        "y": 568.0,
+        "w": 353.0,
+        "h": 84.0,
+        "bottom": 652.0
+      },
+      {
+        "id": 1672,
+        "name": "Loading Assurance",
+        "type": "text",
+        "x": 20.0,
+        "y": 700.0,
+        "w": 353.0,
+        "h": 30.0,
+        "bottom": 730.0
+      },
+      {
+        "id": 1675,
+        "name": "Tab Home",
+        "type": "text",
+        "x": 0.0,
+        "y": 786.0,
+        "w": 131.0,
+        "h": 15.0,
+        "bottom": 801.0
+      },
+      {
+        "id": 1676,
+        "name": "Tab History",
+        "type": "text",
+        "x": 131.0,
+        "y": 786.0,
+        "w": 131.0,
+        "h": 15.0,
+        "bottom": 801.0
+      },
+      {
+        "id": 1677,
+        "name": "Tab Settings",
+        "type": "text",
+        "x": 262.0,
+        "y": 786.0,
+        "w": 131.0,
+        "h": 15.0,
+        "bottom": 801.0
+      }
+    ],
+    "buttons": []
+  },
+  {
+    "index": 11,
+    "id": 1679,
+    "name": "STATE_03_GENERIC_ERROR",
+    "screen_type": "Error / Exception State",
+    "w": 393.0,
+    "h": 852.0,
+    "pos": [
+      1006.0,
+      1940.0
+    ],
+    "children_count": 11,
+    "has_status_bar": false,
+    "has_home_indicator": true,
+    "has_bottom_nav": false,
+    "content_top": 11.0,
+    "content_bottom": 804.0,
+    "content_span": 793.0,
+    "bottom_ref_type": "Home Indicator Top (y=838.0)",
+    "bottom_gap": 34.0,
+    "content_layers": [
+      {
+        "id": 1680,
+        "name": "Dynamic Island",
+        "type": "frame",
+        "x": 134.0,
+        "y": 11.0,
+        "w": 125.0,
+        "h": 32.0,
+        "bottom": 43.0
+      },
+      {
+        "id": 1681,
+        "name": "Time",
+        "type": "text",
+        "x": 32.0,
+        "y": 17.0,
+        "w": 60.0,
+        "h": 18.0,
+        "bottom": 35.0
+      },
+      {
+        "id": 1682,
+        "name": "Status",
+        "type": "text",
+        "x": 280.0,
+        "y": 18.0,
+        "w": 81.0,
+        "h": 15.0,
+        "bottom": 33.0
+      },
+      {
+        "id": 1683,
+        "name": "Nav Title",
+        "type": "text",
+        "x": 0.0,
+        "y": 56.0,
+        "w": 393.0,
+        "h": 21.0,
+        "bottom": 77.0
+      },
+      {
+        "id": 1684,
+        "name": "Error Banner",
+        "type": "frame",
+        "x": 20.0,
+        "y": 96.0,
+        "w": 353.0,
+        "h": 84.0,
+        "bottom": 180.0
+      },
+      {
+        "id": 1687,
+        "name": "Preserved Spot Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 196.0,
+        "w": 353.0,
+        "h": 180.0,
+        "bottom": 376.0
+      },
+      {
+        "id": 1694,
+        "name": "Information Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 390.0,
+        "w": 353.0,
+        "h": 180.0,
+        "bottom": 570.0
+      },
+      {
+        "id": 1699,
+        "name": "Retry Button Frame",
+        "type": "frame",
+        "x": 20.0,
+        "y": 694.0,
+        "w": 353.0,
+        "h": 52.0,
+        "bottom": 746.0
+      },
+      {
+        "id": 1703,
+        "name": "Dismiss Text",
+        "type": "text",
+        "x": 20.0,
+        "y": 706.0,
+        "w": 353.0,
+        "h": 13.0,
+        "bottom": 719.0
+      },
+      {
+        "id": 1701,
+        "name": "Offline Button Frame",
+        "type": "frame",
+        "x": 20.0,
+        "y": 756.0,
+        "w": 353.0,
+        "h": 48.0,
+        "bottom": 804.0
+      }
+    ],
+    "buttons": [
+      {
+        "id": 1699,
+        "name": "Retry Button Frame",
+        "x": 20.0,
+        "y": 694.0,
+        "w": 353.0,
+        "h": 52.0,
+        "bottom": 746.0
+      },
+      {
+        "id": 1700,
+        "name": "Retry Button Text",
+        "x": 0.0,
+        "y": 16.0,
+        "w": 353.0,
+        "h": 18.0,
+        "bottom": 34.0
+      },
+      {
+        "id": 1701,
+        "name": "Offline Button Frame",
+        "x": 20.0,
+        "y": 756.0,
+        "w": 353.0,
+        "h": 48.0,
+        "bottom": 804.0
+      },
+      {
+        "id": 1702,
+        "name": "Offline Button Text",
+        "x": 0.0,
+        "y": 14.0,
+        "w": 353.0,
+        "h": 16.0,
+        "bottom": 30.0
+      }
+    ]
+  },
+  {
+    "index": 12,
+    "id": 1705,
+    "name": "STATE_04_GPS_PERMISSION_DENIED",
+    "screen_type": "Modal / Bottom Sheet",
+    "w": 393.0,
+    "h": 852.0,
+    "pos": [
+      1459.0,
+      1940.0
+    ],
+    "children_count": 6,
+    "has_status_bar": false,
+    "has_home_indicator": true,
+    "has_bottom_nav": false,
+    "content_top": 11.0,
+    "content_bottom": 852.0,
+    "content_span": 841.0,
+    "bottom_ref_type": "Home Indicator Top (y=838.0)",
+    "bottom_gap": -14.0,
+    "content_layers": [
+      {
+        "id": 1706,
+        "name": "Dynamic Island",
+        "type": "frame",
+        "x": 134.0,
+        "y": 11.0,
+        "w": 125.0,
+        "h": 32.0,
+        "bottom": 43.0
+      },
+      {
+        "id": 1707,
+        "name": "Time",
+        "type": "text",
+        "x": 32.0,
+        "y": 17.0,
+        "w": 60.0,
+        "h": 18.0,
+        "bottom": 35.0
+      },
+      {
+        "id": 1708,
+        "name": "Status",
+        "type": "text",
+        "x": 280.0,
+        "y": 18.0,
+        "w": 81.0,
+        "h": 15.0,
+        "bottom": 33.0
+      },
+      {
+        "id": 1710,
+        "name": "Permission Bottom Sheet",
+        "type": "frame",
+        "x": 0.0,
+        "y": 310.0,
+        "w": 393.0,
+        "h": 542.0,
+        "bottom": 852.0
+      }
+    ],
+    "buttons": [
+      {
+        "id": 1722,
+        "name": "Open Settings Button",
+        "x": 24.0,
+        "y": 348.0,
+        "w": 345.0,
+        "h": 52.0,
+        "bottom": 400.0
+      },
+      {
+        "id": 1724,
+        "name": "Manual Button Frame",
+        "x": 24.0,
+        "y": 408.0,
+        "w": 345.0,
+        "h": 46.0,
+        "bottom": 454.0
+      }
+    ]
+  },
+  {
+    "index": 13,
+    "id": 1728,
+    "name": "STATE_05_GPS_UNAVAILABLE",
+    "screen_type": "Error / Exception State",
+    "w": 393.0,
+    "h": 852.0,
+    "pos": [
+      1912.0,
+      1940.0
+    ],
+    "children_count": 13,
+    "has_status_bar": false,
+    "has_home_indicator": true,
+    "has_bottom_nav": false,
+    "content_top": 11.0,
+    "content_bottom": 811.0,
+    "content_span": 800.0,
+    "bottom_ref_type": "Home Indicator Top (y=838.0)",
+    "bottom_gap": 27.0,
+    "content_layers": [
+      {
+        "id": 1729,
+        "name": "Dynamic Island",
+        "type": "frame",
+        "x": 134.0,
+        "y": 11.0,
+        "w": 125.0,
+        "h": 32.0,
+        "bottom": 43.0
+      },
+      {
+        "id": 1730,
+        "name": "Time",
+        "type": "text",
+        "x": 32.0,
+        "y": 17.0,
+        "w": 60.0,
+        "h": 18.0,
+        "bottom": 35.0
+      },
+      {
+        "id": 1731,
+        "name": "Status",
+        "type": "text",
+        "x": 280.0,
+        "y": 18.0,
+        "w": 81.0,
+        "h": 15.0,
+        "bottom": 33.0
+      },
+      {
+        "id": 1732,
+        "name": "Cancel",
+        "type": "text",
+        "x": 20.0,
+        "y": 56.0,
+        "w": 60.0,
+        "h": 18.0,
+        "bottom": 74.0
+      },
+      {
+        "id": 1733,
+        "name": "Nav Title",
+        "type": "text",
+        "x": 0.0,
+        "y": 56.0,
+        "w": 393.0,
+        "h": 21.0,
+        "bottom": 77.0
+      },
+      {
+        "id": 1734,
+        "name": "Save Action",
+        "type": "text",
+        "x": 310.0,
+        "y": 56.0,
+        "w": 63.0,
+        "h": 18.0,
+        "bottom": 74.0
+      },
+      {
+        "id": 1735,
+        "name": "GPS Alert Banner",
+        "type": "frame",
+        "x": 20.0,
+        "y": 96.0,
+        "w": 353.0,
+        "h": 84.0,
+        "bottom": 180.0
+      },
+      {
+        "id": 1738,
+        "name": "Priority Photo Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 192.0,
+        "w": 353.0,
+        "h": 116.0,
+        "bottom": 308.0
+      },
+      {
+        "id": 1744,
+        "name": "Manual Structure Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 320.0,
+        "w": 353.0,
+        "h": 236.0,
+        "bottom": 556.0
+      },
+      {
+        "id": 1760,
+        "name": "Last GPS Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 568.0,
+        "w": 353.0,
+        "h": 68.0,
+        "bottom": 636.0
+      },
+      {
+        "id": 1763,
+        "name": "Save Without GPS Frame",
+        "type": "frame",
+        "x": 20.0,
+        "y": 736.0,
+        "w": 353.0,
+        "h": 52.0,
+        "bottom": 788.0
+      },
+      {
+        "id": 1765,
+        "name": "Confidence Notice",
+        "type": "text",
+        "x": 20.0,
+        "y": 798.0,
+        "w": 353.0,
+        "h": 13.0,
+        "bottom": 811.0
+      }
+    ],
+    "buttons": [
+      {
+        "id": 1734,
+        "name": "Save Action",
+        "x": 310.0,
+        "y": 56.0,
+        "w": 63.0,
+        "h": 18.0,
+        "bottom": 74.0
+      },
+      {
+        "id": 1743,
+        "name": "Photo CTA Text",
+        "x": 78.0,
+        "y": 76.0,
+        "w": 260.0,
+        "h": 13.0,
+        "bottom": 89.0
+      }
+    ]
+  },
+  {
+    "index": 14,
+    "id": 1767,
+    "name": "STATE_06_PHOTO_UPLOAD_IN_PROGRESS",
+    "screen_type": "Loading / Progress State",
+    "w": 393.0,
+    "h": 852.0,
+    "pos": [
+      2365.0,
+      1940.0
+    ],
+    "children_count": 11,
+    "has_status_bar": false,
+    "has_home_indicator": true,
+    "has_bottom_nav": false,
+    "content_top": 11.0,
+    "content_bottom": 811.0,
+    "content_span": 800.0,
+    "bottom_ref_type": "Home Indicator Top (y=838.0)",
+    "bottom_gap": 27.0,
+    "content_layers": [
+      {
+        "id": 1768,
+        "name": "Dynamic Island",
+        "type": "frame",
+        "x": 134.0,
+        "y": 11.0,
+        "w": 125.0,
+        "h": 32.0,
+        "bottom": 43.0
+      },
+      {
+        "id": 1769,
+        "name": "Time",
+        "type": "text",
+        "x": 32.0,
+        "y": 17.0,
+        "w": 60.0,
+        "h": 18.0,
+        "bottom": 35.0
+      },
+      {
+        "id": 1770,
+        "name": "Status",
+        "type": "text",
+        "x": 280.0,
+        "y": 18.0,
+        "w": 81.0,
+        "h": 15.0,
+        "bottom": 33.0
+      },
+      {
+        "id": 1771,
+        "name": "Cancel",
+        "type": "text",
+        "x": 20.0,
+        "y": 56.0,
+        "w": 60.0,
+        "h": 18.0,
+        "bottom": 74.0
+      },
+      {
+        "id": 1772,
+        "name": "Nav Title",
+        "type": "text",
+        "x": 0.0,
+        "y": 56.0,
+        "w": 393.0,
+        "h": 21.0,
+        "bottom": 77.0
+      },
+      {
+        "id": 1773,
+        "name": "Save Action",
+        "type": "text",
+        "x": 310.0,
+        "y": 56.0,
+        "w": 63.0,
+        "h": 18.0,
+        "bottom": 74.0
+      },
+      {
+        "id": 1774,
+        "name": "Upload Progress Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 96.0,
+        "w": 353.0,
+        "h": 310.0,
+        "bottom": 406.0
+      },
+      {
+        "id": 1783,
+        "name": "Form Preview Box",
+        "type": "frame",
+        "x": 20.0,
+        "y": 420.0,
+        "w": 353.0,
+        "h": 210.0,
+        "bottom": 630.0
+      },
+      {
+        "id": 1788,
+        "name": "Save CTA Frame",
+        "type": "frame",
+        "x": 20.0,
+        "y": 736.0,
+        "w": 353.0,
+        "h": 52.0,
+        "bottom": 788.0
+      },
+      {
+        "id": 1790,
+        "name": "Background Notice",
+        "type": "text",
+        "x": 20.0,
+        "y": 798.0,
+        "w": 353.0,
+        "h": 13.0,
+        "bottom": 811.0
+      }
+    ],
+    "buttons": [
+      {
+        "id": 1773,
+        "name": "Save Action",
+        "x": 310.0,
+        "y": 56.0,
+        "w": 63.0,
+        "h": 18.0,
+        "bottom": 74.0
+      },
+      {
+        "id": 1788,
+        "name": "Save CTA Frame",
+        "x": 20.0,
+        "y": 736.0,
+        "w": 353.0,
+        "h": 52.0,
+        "bottom": 788.0
+      },
+      {
+        "id": 1789,
+        "name": "Save CTA Text",
+        "x": 0.0,
+        "y": 16.0,
+        "w": 353.0,
+        "h": 18.0,
+        "bottom": 34.0
+      }
+    ]
+  },
+  {
+    "index": 15,
+    "id": 1792,
+    "name": "STATE_07_PHOTO_UPLOAD_FAILED",
+    "screen_type": "Loading / Progress State",
+    "w": 393.0,
+    "h": 852.0,
+    "pos": [
+      100.0,
+      2860.0
+    ],
+    "children_count": 11,
+    "has_status_bar": false,
+    "has_home_indicator": true,
+    "has_bottom_nav": false,
+    "content_top": 11.0,
+    "content_bottom": 811.0,
+    "content_span": 800.0,
+    "bottom_ref_type": "Home Indicator Top (y=838.0)",
+    "bottom_gap": 27.0,
+    "content_layers": [
+      {
+        "id": 1793,
+        "name": "Dynamic Island",
+        "type": "frame",
+        "x": 134.0,
+        "y": 11.0,
+        "w": 125.0,
+        "h": 32.0,
+        "bottom": 43.0
+      },
+      {
+        "id": 1794,
+        "name": "Time",
+        "type": "text",
+        "x": 32.0,
+        "y": 17.0,
+        "w": 60.0,
+        "h": 18.0,
+        "bottom": 35.0
+      },
+      {
+        "id": 1795,
+        "name": "Status",
+        "type": "text",
+        "x": 280.0,
+        "y": 18.0,
+        "w": 81.0,
+        "h": 15.0,
+        "bottom": 33.0
+      },
+      {
+        "id": 1796,
+        "name": "Cancel",
+        "type": "text",
+        "x": 20.0,
+        "y": 56.0,
+        "w": 60.0,
+        "h": 18.0,
+        "bottom": 74.0
+      },
+      {
+        "id": 1797,
+        "name": "Nav Title",
+        "type": "text",
+        "x": 0.0,
+        "y": 56.0,
+        "w": 393.0,
+        "h": 21.0,
+        "bottom": 77.0
+      },
+      {
+        "id": 1798,
+        "name": "Save Action",
+        "type": "text",
+        "x": 310.0,
+        "y": 56.0,
+        "w": 63.0,
+        "h": 18.0,
+        "bottom": 74.0
+      },
+      {
+        "id": 1799,
+        "name": "Upload Failure Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 96.0,
+        "w": 353.0,
+        "h": 256.0,
+        "bottom": 352.0
+      },
+      {
+        "id": 1812,
+        "name": "Preserved Details Box",
+        "type": "frame",
+        "x": 20.0,
+        "y": 368.0,
+        "w": 353.0,
+        "h": 236.0,
+        "bottom": 604.0
+      },
+      {
+        "id": 1817,
+        "name": "Save Offline Button",
+        "type": "frame",
+        "x": 20.0,
+        "y": 736.0,
+        "w": 353.0,
+        "h": 52.0,
+        "bottom": 788.0
+      },
+      {
+        "id": 1819,
+        "name": "Offline Guaran",
+        "type": "text",
+        "x": 20.0,
+        "y": 798.0,
+        "w": 353.0,
+        "h": 13.0,
+        "bottom": 811.0
+      }
+    ],
+    "buttons": [
+      {
+        "id": 1798,
+        "name": "Save Action",
+        "x": 310.0,
+        "y": 56.0,
+        "w": 63.0,
+        "h": 18.0,
+        "bottom": 74.0
+      },
+      {
+        "id": 1807,
+        "name": "Retry Upload Btn",
+        "x": 16.0,
+        "y": 148.0,
+        "w": 150.0,
+        "h": 44.0,
+        "bottom": 192.0
+      },
+      {
+        "id": 1809,
+        "name": "Keep Offline Btn",
+        "x": 174.0,
+        "y": 148.0,
+        "w": 163.0,
+        "h": 44.0,
+        "bottom": 192.0
+      },
+      {
+        "id": 1817,
+        "name": "Save Offline Button",
+        "x": 20.0,
+        "y": 736.0,
+        "w": 353.0,
+        "h": 52.0,
+        "bottom": 788.0
+      }
+    ]
+  },
+  {
+    "index": 16,
+    "id": 1821,
+    "name": "STATE_08_CLOUD_SYNC_PENDING",
+    "screen_type": "Loading / Progress State",
+    "w": 393.0,
+    "h": 852.0,
+    "pos": [
+      553.0,
+      2860.0
+    ],
+    "children_count": 15,
+    "has_status_bar": false,
+    "has_home_indicator": true,
+    "has_bottom_nav": false,
+    "content_top": 11.0,
+    "content_bottom": 788.0,
+    "content_span": 777.0,
+    "bottom_ref_type": "Home Indicator Top (y=838.0)",
+    "bottom_gap": 50.0,
+    "content_layers": [
+      {
+        "id": 1822,
+        "name": "Dynamic Island",
+        "type": "frame",
+        "x": 134.0,
+        "y": 11.0,
+        "w": 125.0,
+        "h": 32.0,
+        "bottom": 43.0
+      },
+      {
+        "id": 1823,
+        "name": "Time",
+        "type": "text",
+        "x": 32.0,
+        "y": 17.0,
+        "w": 60.0,
+        "h": 18.0,
+        "bottom": 35.0
+      },
+      {
+        "id": 1824,
+        "name": "Status",
+        "type": "text",
+        "x": 280.0,
+        "y": 18.0,
+        "w": 81.0,
+        "h": 15.0,
+        "bottom": 33.0
+      },
+      {
+        "id": 1825,
+        "name": "Back",
+        "type": "text",
+        "x": 20.0,
+        "y": 56.0,
+        "w": 95.0,
+        "h": 18.0,
+        "bottom": 74.0
+      },
+      {
+        "id": 1826,
+        "name": "Nav Title",
+        "type": "text",
+        "x": 0.0,
+        "y": 56.0,
+        "w": 393.0,
+        "h": 21.0,
+        "bottom": 77.0
+      },
+      {
+        "id": 1827,
+        "name": "Refresh Action",
+        "type": "text",
+        "x": 305.0,
+        "y": 56.0,
+        "w": 68.0,
+        "h": 18.0,
+        "bottom": 74.0
+      },
+      {
+        "id": 1828,
+        "name": "Pending Banner Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 96.0,
+        "w": 353.0,
+        "h": 96.0,
+        "bottom": 192.0
+      },
+      {
+        "id": 1834,
+        "name": "Telemetry Tile 1",
+        "type": "frame",
+        "x": 20.0,
+        "y": 204.0,
+        "w": 170.0,
+        "h": 74.0,
+        "bottom": 278.0
+      },
+      {
+        "id": 1838,
+        "name": "Telemetry Tile 2",
+        "type": "frame",
+        "x": 203.0,
+        "y": 204.0,
+        "w": 170.0,
+        "h": 74.0,
+        "bottom": 278.0
+      },
+      {
+        "id": 1842,
+        "name": "Telemetry Tile 3",
+        "type": "frame",
+        "x": 20.0,
+        "y": 290.0,
+        "w": 170.0,
+        "h": 74.0,
+        "bottom": 364.0
+      },
+      {
+        "id": 1846,
+        "name": "Telemetry Tile 4",
+        "type": "frame",
+        "x": 203.0,
+        "y": 290.0,
+        "w": 170.0,
+        "h": 74.0,
+        "bottom": 364.0
+      },
+      {
+        "id": 1850,
+        "name": "Queue Details Box",
+        "type": "frame",
+        "x": 20.0,
+        "y": 376.0,
+        "w": 353.0,
+        "h": 144.0,
+        "bottom": 520.0
+      },
+      {
+        "id": 1856,
+        "name": "Offline Info Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 532.0,
+        "w": 353.0,
+        "h": 104.0,
+        "bottom": 636.0
+      },
+      {
+        "id": 1859,
+        "name": "Sync Now Button",
+        "type": "frame",
+        "x": 20.0,
+        "y": 736.0,
+        "w": 353.0,
+        "h": 52.0,
+        "bottom": 788.0
+      }
+    ],
+    "buttons": [
+      {
+        "id": 1827,
+        "name": "Refresh Action",
+        "x": 305.0,
+        "y": 56.0,
+        "w": 68.0,
+        "h": 18.0,
+        "bottom": 74.0
+      },
+      {
+        "id": 1859,
+        "name": "Sync Now Button",
+        "x": 20.0,
+        "y": 736.0,
+        "w": 353.0,
+        "h": 52.0,
+        "bottom": 788.0
+      }
+    ]
+  },
+  {
+    "index": 17,
+    "id": 1862,
+    "name": "STATE_09_CLOUD_SYNC_FAILED",
+    "screen_type": "Error / Exception State",
+    "w": 393.0,
+    "h": 852.0,
+    "pos": [
+      1006.0,
+      2860.0
+    ],
+    "children_count": 12,
+    "has_status_bar": false,
+    "has_home_indicator": true,
+    "has_bottom_nav": false,
+    "content_top": 11.0,
+    "content_bottom": 828.0,
+    "content_span": 817.0,
+    "bottom_ref_type": "Home Indicator Top (y=838.0)",
+    "bottom_gap": 10.0,
+    "content_layers": [
+      {
+        "id": 1863,
+        "name": "Dynamic Island",
+        "type": "frame",
+        "x": 134.0,
+        "y": 11.0,
+        "w": 125.0,
+        "h": 32.0,
+        "bottom": 43.0
+      },
+      {
+        "id": 1864,
+        "name": "Time",
+        "type": "text",
+        "x": 32.0,
+        "y": 17.0,
+        "w": 60.0,
+        "h": 18.0,
+        "bottom": 35.0
+      },
+      {
+        "id": 1865,
+        "name": "Status",
+        "type": "text",
+        "x": 280.0,
+        "y": 18.0,
+        "w": 81.0,
+        "h": 15.0,
+        "bottom": 33.0
+      },
+      {
+        "id": 1866,
+        "name": "Back",
+        "type": "text",
+        "x": 20.0,
+        "y": 56.0,
+        "w": 95.0,
+        "h": 18.0,
+        "bottom": 74.0
+      },
+      {
+        "id": 1867,
+        "name": "Nav Title",
+        "type": "text",
+        "x": 0.0,
+        "y": 56.0,
+        "w": 393.0,
+        "h": 21.0,
+        "bottom": 77.0
+      },
+      {
+        "id": 1868,
+        "name": "Refresh Action",
+        "type": "text",
+        "x": 305.0,
+        "y": 56.0,
+        "w": 68.0,
+        "h": 18.0,
+        "bottom": 74.0
+      },
+      {
+        "id": 1869,
+        "name": "Sync Failed Banner",
+        "type": "frame",
+        "x": 20.0,
+        "y": 96.0,
+        "w": 353.0,
+        "h": 96.0,
+        "bottom": 192.0
+      },
+      {
+        "id": 1875,
+        "name": "Data Safety Box",
+        "type": "frame",
+        "x": 20.0,
+        "y": 204.0,
+        "w": 353.0,
+        "h": 96.0,
+        "bottom": 300.0
+      },
+      {
+        "id": 1879,
+        "name": "Diagnostic Box",
+        "type": "frame",
+        "x": 20.0,
+        "y": 312.0,
+        "w": 353.0,
+        "h": 160.0,
+        "bottom": 472.0
+      },
+      {
+        "id": 1884,
+        "name": "Force Sync Frame",
+        "type": "frame",
+        "x": 20.0,
+        "y": 720.0,
+        "w": 353.0,
+        "h": 52.0,
+        "bottom": 772.0
+      },
+      {
+        "id": 1886,
+        "name": "Keep Offline Frame",
+        "type": "frame",
+        "x": 20.0,
+        "y": 780.0,
+        "w": 353.0,
+        "h": 48.0,
+        "bottom": 828.0
+      }
+    ],
+    "buttons": [
+      {
+        "id": 1868,
+        "name": "Refresh Action",
+        "x": 305.0,
+        "y": 56.0,
+        "w": 68.0,
+        "h": 18.0,
+        "bottom": 74.0
+      }
+    ]
+  },
+  {
+    "index": 18,
+    "id": 1889,
+    "name": "STATE_10_ARCHIVE_CONFIRMATION",
+    "screen_type": "Modal / Bottom Sheet",
+    "w": 393.0,
+    "h": 852.0,
+    "pos": [
+      1459.0,
+      2860.0
+    ],
+    "children_count": 6,
+    "has_status_bar": false,
+    "has_home_indicator": true,
+    "has_bottom_nav": false,
+    "content_top": 11.0,
+    "content_bottom": 852.0,
+    "content_span": 841.0,
+    "bottom_ref_type": "Home Indicator Top (y=838.0)",
+    "bottom_gap": -14.0,
+    "content_layers": [
+      {
+        "id": 1890,
+        "name": "Dynamic Island",
+        "type": "frame",
+        "x": 134.0,
+        "y": 11.0,
+        "w": 125.0,
+        "h": 32.0,
+        "bottom": 43.0
+      },
+      {
+        "id": 1891,
+        "name": "Time",
+        "type": "text",
+        "x": 32.0,
+        "y": 17.0,
+        "w": 60.0,
+        "h": 18.0,
+        "bottom": 35.0
+      },
+      {
+        "id": 1892,
+        "name": "Status",
+        "type": "text",
+        "x": 280.0,
+        "y": 18.0,
+        "w": 81.0,
+        "h": 15.0,
+        "bottom": 33.0
+      },
+      {
+        "id": 1894,
+        "name": "Archive Bottom Sheet",
+        "type": "frame",
+        "x": 0.0,
+        "y": 330.0,
+        "w": 393.0,
+        "h": 522.0,
+        "bottom": 852.0
+      }
+    ],
+    "buttons": [
+      {
+        "id": 1894,
+        "name": "Archive Bottom Sheet",
+        "x": 0.0,
+        "y": 330.0,
+        "w": 393.0,
+        "h": 522.0,
+        "bottom": 852.0
+      },
+      {
+        "id": 1906,
+        "name": "Archive CTA Frame",
+        "x": 24.0,
+        "y": 332.0,
+        "w": 345.0,
+        "h": 52.0,
+        "bottom": 384.0
+      }
+    ]
+  },
+  {
+    "index": 19,
+    "id": 1911,
+    "name": "STATE_11_AUTHENTICATION",
+    "screen_type": "Modal / Bottom Sheet",
+    "w": 393.0,
+    "h": 852.0,
+    "pos": [
+      1912.0,
+      2860.0
+    ],
+    "children_count": 9,
+    "has_status_bar": false,
+    "has_home_indicator": true,
+    "has_bottom_nav": false,
+    "content_top": 11.0,
+    "content_bottom": 735.0,
+    "content_span": 724.0,
+    "bottom_ref_type": "Home Indicator Top (y=838.0)",
+    "bottom_gap": 103.0,
+    "content_layers": [
+      {
+        "id": 1912,
+        "name": "Dynamic Island",
+        "type": "frame",
+        "x": 134.0,
+        "y": 11.0,
+        "w": 125.0,
+        "h": 32.0,
+        "bottom": 43.0
+      },
+      {
+        "id": 1913,
+        "name": "Time",
+        "type": "text",
+        "x": 32.0,
+        "y": 17.0,
+        "w": 60.0,
+        "h": 18.0,
+        "bottom": 35.0
+      },
+      {
+        "id": 1914,
+        "name": "Status",
+        "type": "text",
+        "x": 280.0,
+        "y": 18.0,
+        "w": 81.0,
+        "h": 15.0,
+        "bottom": 33.0
+      },
+      {
+        "id": 1915,
+        "name": "Brand Title",
+        "type": "text",
+        "x": 0.0,
+        "y": 60.0,
+        "w": 393.0,
+        "h": 34.0,
+        "bottom": 94.0
+      },
+      {
+        "id": 1916,
+        "name": "Brand Sub",
+        "type": "text",
+        "x": 0.0,
+        "y": 96.0,
+        "w": 393.0,
+        "h": 13.0,
+        "bottom": 109.0
+      },
+      {
+        "id": 1917,
+        "name": "Auth Card",
+        "type": "frame",
+        "x": 20.0,
+        "y": 128.0,
+        "w": 353.0,
+        "h": 466.0,
+        "bottom": 594.0
+      },
+      {
+        "id": 1934,
+        "name": "Offline Assurance Box",
+        "type": "frame",
+        "x": 20.0,
+        "y": 612.0,
+        "w": 353.0,
+        "h": 84.0,
+        "bottom": 696.0
+      },
+      {
+        "id": 1937,
+        "name": "Skip Link",
+        "type": "text",
+        "x": 20.0,
+        "y": 720.0,
+        "w": 353.0,
+        "h": 15.0,
+        "bottom": 735.0
+      }
+    ],
+    "buttons": []
+  }
+]

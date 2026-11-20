@@ -1,0 +1,354 @@
+
+==================================================
+ARTBOARD 01 — Home / Ready to Pin (ID: 1225) - 393x852 at (100, 100)
+==================================================
+  - Dynamic Island                   | y= 11.0.. 43.0 (h= 32.0, w=125.0) 
+  - Time                             | y= 17.0.. 35.0 (h= 18.0, w= 60.0) [Gap from prev: -26.0px]
+  - Status                           | y= 18.0.. 33.0 (h= 15.0, w= 81.0) [Gap from prev: -17.0px]
+  - Synced Badge                     | y= 55.0.. 81.0 (h= 26.0, w= 88.0) [Gap from prev: +22.0px]
+  - ParkPin Brand                    | y= 56.0.. 83.0 (h= 27.0, w=120.0) [Gap from prev: -25.0px]
+  - Synced Text                      | y= 61.0.. 74.0 (h= 13.0, w= 88.0) [Gap from prev: -22.0px]
+  - GPS Strip                        | y= 96.0..132.0 (h= 36.0, w=353.0) [Gap from prev: +22.0px]
+  - GPS Text                         | y=106.0..121.0 (h= 15.0, w=329.0) [Gap from prev: -26.0px]
+  - Hero Empty State Card            | y=144.0..404.0 (h=260.0, w=353.0) [Gap from prev: +23.0px]
+  - Section Title                    | y=420.0..433.0 (h= 13.0, w=250.0) [Gap from prev: +16.0px]
+  - Garage Card 1                    | y=442.0..508.0 (h= 66.0, w=353.0) [Gap from prev: +9.0px]
+  - Garage Card 2                    | y=518.0..584.0 (h= 66.0, w=353.0) [Gap from prev: +10.0px]
+  - Garage Card 3                    | y=594.0..660.0 (h= 66.0, w=353.0) [Gap from prev: +10.0px]
+  - Smart Tip Card                   | y=672.0..750.0 (h= 78.0, w=353.0) [Gap from prev: +12.0px]
+  - Bottom Navigation Bar            | y=768.0..852.0 (h= 84.0, w=393.0) [Gap from prev: +18.0px]
+  - Nav Divider                      | y=768.0..769.0 (h=  1.0, w=393.0) [Gap from prev: -84.0px]
+  - Tab Home                         | y=786.0..801.0 (h= 15.0, w=131.0) [Gap from prev: +17.0px]
+  - Tab History                      | y=786.0..801.0 (h= 15.0, w=131.0) [Gap from prev: -15.0px]
+  - Tab Settings                     | y=786.0..801.0 (h= 15.0, w=131.0) [Gap from prev: -15.0px]
+  - Home Indicator                   | y=838.0..843.0 (h=  5.0, w=134.0) [Gap from prev: +37.0px]
+
+==================================================
+ARTBOARD 02 — Save Parking Location (ID: 1273) - 393x852 at (553, 100)
+==================================================
+  - Dynamic Island                   | y= 11.0.. 43.0 (h= 32.0, w=125.0) 
+  - Time                             | y= 17.0.. 35.0 (h= 18.0, w= 60.0) [Gap from prev: -26.0px]
+  - Status                           | y= 18.0.. 33.0 (h= 15.0, w= 81.0) [Gap from prev: -17.0px]
+  - Cancel                           | y= 56.0.. 74.0 (h= 18.0, w= 60.0) [Gap from prev: +23.0px]
+  - Nav Title                        | y= 56.0.. 77.0 (h= 21.0, w=393.0) [Gap from prev: -18.0px]
+  - Save Action                      | y= 56.0.. 74.0 (h= 18.0, w= 63.0) [Gap from prev: -21.0px]
+  - Landmark Attached Card           | y= 96.0..172.0 (h= 76.0, w=353.0) [Gap from prev: +22.0px]
+  - Building Garage Card             | y=182.0..258.0 (h= 76.0, w=353.0) [Gap from prev: +10.0px]
+  - Floor Level Card                 | y=268.0..348.0 (h= 80.0, w=353.0) [Gap from prev: +10.0px]
+  - Zone Card                        | y=358.0..424.0 (h= 66.0, w=171.0) [Gap from prev: +10.0px]
+  - Slot Card                        | y=358.0..424.0 (h= 66.0, w=171.0) [Gap from prev: -66.0px]
+  - Notes Card                       | y=434.0..518.0 (h= 84.0, w=353.0) [Gap from prev: +10.0px]
+  - Timer Card                       | y=528.0..608.0 (h= 80.0, w=353.0) [Gap from prev: +10.0px]
+  - Vehicle Strip                    | y=618.0..664.0 (h= 46.0, w=353.0) [Gap from prev: +10.0px]
+  - Save CTA Frame                   | y=680.0..732.0 (h= 52.0, w=353.0) [Gap from prev: +16.0px]
+  - Disclaimer                       | y=746.0..759.0 (h= 13.0, w=353.0) [Gap from prev: +14.0px]
+  - Home Indicator                   | y=838.0..843.0 (h=  5.0, w=134.0) [Gap from prev: +79.0px]
+
+==================================================
+ARTBOARD 03 — Home / Active Parking (ID: 1330) - 393x852 at (1006, 100)
+==================================================
+  - Dynamic Island                   | y= 11.0.. 43.0 (h= 32.0, w=125.0) 
+  - Time                             | y= 17.0.. 35.0 (h= 18.0, w= 60.0) [Gap from prev: -26.0px]
+  - Status                           | y= 18.0.. 33.0 (h= 15.0, w= 81.0) [Gap from prev: -17.0px]
+  - Active Badge Frame               | y= 55.0.. 81.0 (h= 26.0, w=133.0) [Gap from prev: +22.0px]
+  - ParkPin Brand                    | y= 56.0.. 83.0 (h= 27.0, w=120.0) [Gap from prev: -25.0px]
+  - Live Timer HUD                   | y= 96.0..188.0 (h= 92.0, w=353.0) [Gap from prev: +13.0px]
+  - Spot Details Card                | y=200.0..448.0 (h=248.0, w=353.0) [Gap from prev: +12.0px]
+  - QA Landmark Frame                | y=462.0..506.0 (h= 44.0, w=170.0) [Gap from prev: +14.0px]
+  - QA Bearing Frame                 | y=462.0..506.0 (h= 44.0, w=170.0) [Gap from prev: -44.0px]
+  - QA Share Frame                   | y=514.0..558.0 (h= 44.0, w=170.0) [Gap from prev: +8.0px]
+  - QA Alarm Frame                   | y=514.0..558.0 (h= 44.0, w=170.0) [Gap from prev: -44.0px]
+  - Find Vehicle Frame               | y=612.0..664.0 (h= 52.0, w=353.0) [Gap from prev: +54.0px]
+  - Edit Details Frame               | y=674.0..718.0 (h= 44.0, w=170.0) [Gap from prev: +10.0px]
+  - End Parking Frame                | y=674.0..718.0 (h= 44.0, w=170.0) [Gap from prev: -44.0px]
+  - Active GPS                       | y=730.0..743.0 (h= 13.0, w=353.0) [Gap from prev: +12.0px]
+  - Bottom Navigation Bar            | y=768.0..852.0 (h= 84.0, w=393.0) [Gap from prev: +25.0px]
+  - Nav Divider                      | y=768.0..769.0 (h=  1.0, w=393.0) [Gap from prev: -84.0px]
+  - Tab Home                         | y=786.0..801.0 (h= 15.0, w=131.0) [Gap from prev: +17.0px]
+  - Tab History                      | y=786.0..801.0 (h= 15.0, w=131.0) [Gap from prev: -15.0px]
+  - Tab Settings                     | y=786.0..801.0 (h= 15.0, w=131.0) [Gap from prev: -15.0px]
+  - Home Indicator                   | y=838.0..843.0 (h=  5.0, w=134.0) [Gap from prev: +37.0px]
+
+==================================================
+ARTBOARD 04 — Find My Vehicle (ID: 1379) - 393x852 at (1459, 100)
+==================================================
+  - Dynamic Island                   | y= 11.0.. 43.0 (h= 32.0, w=125.0) 
+  - Time                             | y= 17.0.. 35.0 (h= 18.0, w= 60.0) [Gap from prev: -26.0px]
+  - Status                           | y= 18.0.. 33.0 (h= 15.0, w= 81.0) [Gap from prev: -17.0px]
+  - Back                             | y= 56.0.. 74.0 (h= 18.0, w= 60.0) [Gap from prev: +23.0px]
+  - Nav Title                        | y= 56.0.. 77.0 (h= 21.0, w=393.0) [Gap from prev: -18.0px]
+  - Close Action                     | y= 56.0.. 74.0 (h= 18.0, w= 63.0) [Gap from prev: -21.0px]
+  - Compass HUD                      | y= 96.0..200.0 (h=104.0, w=353.0) [Gap from prev: +22.0px]
+  - Where You Parked Card            | y=214.0..310.0 (h= 96.0, w=353.0) [Gap from prev: +14.0px]
+  - Pedestrian Directions Card       | y=324.0..448.0 (h=124.0, w=353.0) [Gap from prev: +14.0px]
+  - Landmark Viewer Card             | y=462.0..546.0 (h= 84.0, w=353.0) [Gap from prev: +14.0px]
+  - Open Maps Frame                  | y=560.0..610.0 (h= 50.0, w=353.0) [Gap from prev: +14.0px]
+  - GPS Warn                         | y=622.0..635.0 (h= 13.0, w=353.0) [Gap from prev: +12.0px]
+  - Found Car Frame                  | y=736.0..788.0 (h= 52.0, w=353.0) [Gap from prev: +101.0px]
+  - Found Sub                        | y=798.0..811.0 (h= 13.0, w=353.0) [Gap from prev: +10.0px]
+  - Home Indicator                   | y=838.0..843.0 (h=  5.0, w=134.0) [Gap from prev: +27.0px]
+
+==================================================
+ARTBOARD 05 — Parking History (ID: 1413) - 393x852 at (100, 1020)
+==================================================
+  - Dynamic Island                   | y= 11.0.. 43.0 (h= 32.0, w=125.0) 
+  - Time                             | y= 17.0.. 35.0 (h= 18.0, w= 60.0) [Gap from prev: -26.0px]
+  - Status                           | y= 18.0.. 33.0 (h= 15.0, w= 81.0) [Gap from prev: -17.0px]
+  - Records Pill Frame               | y= 54.0.. 82.0 (h= 28.0, w= 93.0) [Gap from prev: +21.0px]
+  - History Title                    | y= 56.0.. 83.0 (h= 27.0, w=180.0) [Gap from prev: -26.0px]
+  - Search Box                       | y= 96.0..138.0 (h= 42.0, w=353.0) [Gap from prev: +13.0px]
+  - Chip All                         | y=148.0..180.0 (h= 32.0, w= 72.0) [Gap from prev: +10.0px]
+  - Chip Month                       | y=148.0..180.0 (h= 32.0, w= 96.0) [Gap from prev: -32.0px]
+  - Chip Photos                      | y=148.0..180.0 (h= 32.0, w=102.0) [Gap from prev: -32.0px]
+  - Stats Card                       | y=190.0..242.0 (h= 52.0, w=353.0) [Gap from prev: +10.0px]
+  - Active Record Card               | y=252.0..324.0 (h= 72.0, w=353.0) [Gap from prev: +10.0px]
+  - History Section                  | y=334.0..347.0 (h= 13.0, w=250.0) [Gap from prev: +10.0px]
+  - History Item 1                   | y=352.0..418.0 (h= 66.0, w=353.0) [Gap from prev: +5.0px]
+  - History Item 2                   | y=428.0..494.0 (h= 66.0, w=353.0) [Gap from prev: +10.0px]
+  - History Item 3                   | y=504.0..570.0 (h= 66.0, w=353.0) [Gap from prev: +10.0px]
+  - History Item 4                   | y=580.0..646.0 (h= 66.0, w=353.0) [Gap from prev: +10.0px]
+  - History Item 5                   | y=656.0..722.0 (h= 66.0, w=353.0) [Gap from prev: +10.0px]
+  - Bottom Navigation Bar            | y=768.0..852.0 (h= 84.0, w=393.0) [Gap from prev: +46.0px]
+  - Nav Divider                      | y=768.0..769.0 (h=  1.0, w=393.0) [Gap from prev: -84.0px]
+  - Tab Home                         | y=786.0..801.0 (h= 15.0, w=131.0) [Gap from prev: +17.0px]
+  - Tab History                      | y=786.0..801.0 (h= 15.0, w=131.0) [Gap from prev: -15.0px]
+  - Tab Settings                     | y=786.0..801.0 (h= 15.0, w=131.0) [Gap from prev: -15.0px]
+  - Home Indicator                   | y=838.0..843.0 (h=  5.0, w=134.0) [Gap from prev: +37.0px]
+
+==================================================
+ARTBOARD 06 — Parking Record Detail (ID: 1482) - 393x852 at (553, 1020)
+==================================================
+  - Dynamic Island                   | y= 11.0.. 43.0 (h= 32.0, w=125.0) 
+  - Time                             | y= 17.0.. 35.0 (h= 18.0, w= 60.0) [Gap from prev: -26.0px]
+  - Status                           | y= 18.0.. 33.0 (h= 15.0, w= 81.0) [Gap from prev: -17.0px]
+  - Back                             | y= 56.0.. 74.0 (h= 18.0, w= 70.0) [Gap from prev: +23.0px]
+  - Nav Title                        | y= 56.0.. 77.0 (h= 21.0, w=393.0) [Gap from prev: -18.0px]
+  - Share Action                     | y= 56.0.. 74.0 (h= 18.0, w= 63.0) [Gap from prev: -21.0px]
+  - Landmark Banner Card             | y= 96.0..232.0 (h=136.0, w=353.0) [Gap from prev: +22.0px]
+  - Structure Card                   | y=244.0..324.0 (h= 80.0, w=353.0) [Gap from prev: +12.0px]
+  - Date Card                        | y=336.0..400.0 (h= 64.0, w=171.0) [Gap from prev: +12.0px]
+  - Duration Card                    | y=336.0..400.0 (h= 64.0, w=171.0) [Gap from prev: -64.0px]
+  - Notes Box                        | y=412.0..488.0 (h= 76.0, w=353.0) [Gap from prev: +12.0px]
+  - GPS Card                         | y=500.0..556.0 (h= 56.0, w=353.0) [Gap from prev: +12.0px]
+  - Vehicle Tag Strip                | y=568.0..610.0 (h= 42.0, w=353.0) [Gap from prev: +12.0px]
+  - Open Maps Frame                  | y=622.0..672.0 (h= 50.0, w=353.0) [Gap from prev: +12.0px]
+  - Delete Button Frame              | y=682.0..728.0 (h= 46.0, w=353.0) [Gap from prev: +10.0px]
+  - Arch Footer                      | y=740.0..753.0 (h= 13.0, w=353.0) [Gap from prev: +12.0px]
+  - Home Indicator                   | y=838.0..843.0 (h=  5.0, w=134.0) [Gap from prev: +85.0px]
+
+==================================================
+ARTBOARD 07 — Settings & Account (ID: 1522) - 393x852 at (1006, 1020)
+==================================================
+  - Dynamic Island                   | y= 11.0.. 43.0 (h= 32.0, w=125.0) 
+  - Time                             | y= 17.0.. 35.0 (h= 18.0, w= 60.0) [Gap from prev: -26.0px]
+  - Status                           | y= 18.0.. 33.0 (h= 15.0, w= 81.0) [Gap from prev: -17.0px]
+  - Nav Title                        | y= 56.0.. 77.0 (h= 21.0, w=393.0) [Gap from prev: +23.0px]
+  - User Profile Card                | y= 96.0..172.0 (h= 76.0, w=353.0) [Gap from prev: +19.0px]
+  - Cloud Sync HUD                   | y=182.0..242.0 (h= 60.0, w=353.0) [Gap from prev: +10.0px]
+  - Sec1 Title                       | y=256.0..269.0 (h= 13.0, w=250.0) [Gap from prev: +14.0px]
+  - Sync Preferences Card            | y=274.0..388.0 (h=114.0, w=353.0) [Gap from prev: +5.0px]
+  - Sec2 Title                       | y=400.0..413.0 (h= 13.0, w=250.0) [Gap from prev: +12.0px]
+  - Parking Preferences Card         | y=418.0..532.0 (h=114.0, w=353.0) [Gap from prev: +5.0px]
+  - Sec3 Title                       | y=544.0..557.0 (h= 13.0, w=250.0) [Gap from prev: +12.0px]
+  - Data Management Card             | y=562.0..640.0 (h= 78.0, w=353.0) [Gap from prev: +5.0px]
+  - Sign Out Frame                   | y=652.0..696.0 (h= 44.0, w=353.0) [Gap from prev: +12.0px]
+  - App Version                      | y=710.0..723.0 (h= 13.0, w=353.0) [Gap from prev: +14.0px]
+  - Bottom Navigation Bar            | y=768.0..852.0 (h= 84.0, w=393.0) [Gap from prev: +45.0px]
+  - Nav Divider                      | y=768.0..769.0 (h=  1.0, w=393.0) [Gap from prev: -84.0px]
+  - Tab Home                         | y=786.0..801.0 (h= 15.0, w=131.0) [Gap from prev: +17.0px]
+  - Tab History                      | y=786.0..801.0 (h= 15.0, w=131.0) [Gap from prev: -15.0px]
+  - Tab Settings                     | y=786.0..801.0 (h= 15.0, w=131.0) [Gap from prev: -15.0px]
+  - Home Indicator                   | y=838.0..843.0 (h=  5.0, w=134.0) [Gap from prev: +37.0px]
+
+==================================================
+ARTBOARD 08 — Cloud Sync & Offline Status (ID: 1573) - 393x852 at (1459, 1020)
+==================================================
+  - Dynamic Island                   | y= 11.0.. 43.0 (h= 32.0, w=125.0) 
+  - Time                             | y= 17.0.. 35.0 (h= 18.0, w= 60.0) [Gap from prev: -26.0px]
+  - Status                           | y= 18.0.. 33.0 (h= 15.0, w= 81.0) [Gap from prev: -17.0px]
+  - Back                             | y= 56.0.. 74.0 (h= 18.0, w= 95.0) [Gap from prev: +23.0px]
+  - Nav Title                        | y= 56.0.. 77.0 (h= 21.0, w=393.0) [Gap from prev: -18.0px]
+  - Refresh Action                   | y= 56.0.. 74.0 (h= 18.0, w= 68.0) [Gap from prev: -21.0px]
+  - Status Banner Card               | y= 96.0..188.0 (h= 92.0, w=353.0) [Gap from prev: +22.0px]
+  - Metric 1                         | y=200.0..272.0 (h= 72.0, w=171.0) [Gap from prev: +12.0px]
+  - Metric 2                         | y=200.0..272.0 (h= 72.0, w=171.0) [Gap from prev: -72.0px]
+  - Metric 3                         | y=284.0..356.0 (h= 72.0, w=171.0) [Gap from prev: +12.0px]
+  - Metric 4                         | y=284.0..356.0 (h= 72.0, w=171.0) [Gap from prev: -72.0px]
+  - Offline Info Card                | y=368.0..478.0 (h=110.0, w=353.0) [Gap from prev: +12.0px]
+  - Recent Events Card               | y=490.0..616.0 (h=126.0, w=353.0) [Gap from prev: +12.0px]
+  - Health Status                    | y=590.0..603.0 (h= 13.0, w=353.0) [Gap from prev: -26.0px]
+  - Force Sync Frame                 | y=736.0..788.0 (h= 52.0, w=353.0) [Gap from prev: +133.0px]
+  - Clear Cache                      | y=798.0..811.0 (h= 13.0, w=353.0) [Gap from prev: +10.0px]
+  - Home Indicator                   | y=838.0..843.0 (h=  5.0, w=134.0) [Gap from prev: +27.0px]
+
+==================================================
+ARTBOARD STATE_01_HISTORY_EMPTY (ID: 1611) - 393x852 at (100, 1940)
+==================================================
+  - Dynamic Island                   | y= 11.0.. 43.0 (h= 32.0, w=125.0) 
+  - Time                             | y= 17.0.. 35.0 (h= 18.0, w= 60.0) [Gap from prev: -26.0px]
+  - Status                           | y= 18.0.. 33.0 (h= 15.0, w= 81.0) [Gap from prev: -17.0px]
+  - Records Pill Frame               | y= 54.0.. 82.0 (h= 28.0, w= 93.0) [Gap from prev: +21.0px]
+  - History Title                    | y= 56.0.. 83.0 (h= 27.0, w=180.0) [Gap from prev: -26.0px]
+  - Search Box                       | y= 96.0..138.0 (h= 42.0, w=353.0) [Gap from prev: +13.0px]
+  - Chip All                         | y=148.0..180.0 (h= 32.0, w= 72.0) [Gap from prev: +10.0px]
+  - Chip Month                       | y=148.0..180.0 (h= 32.0, w= 96.0) [Gap from prev: -32.0px]
+  - Chip Photos                      | y=148.0..180.0 (h= 32.0, w= 96.0) [Gap from prev: -32.0px]
+  - Empty State Card                 | y=202.0..642.0 (h=440.0, w=353.0) [Gap from prev: +22.0px]
+  - Tip Box                          | y=662.0..746.0 (h= 84.0, w=353.0) [Gap from prev: +20.0px]
+  - Bottom Navigation Bar            | y=768.0..852.0 (h= 84.0, w=393.0) [Gap from prev: +22.0px]
+  - Nav Divider                      | y=768.0..769.0 (h=  1.0, w=393.0) [Gap from prev: -84.0px]
+  - Tab Home                         | y=786.0..801.0 (h= 15.0, w=131.0) [Gap from prev: +17.0px]
+  - Tab History                      | y=786.0..801.0 (h= 15.0, w=131.0) [Gap from prev: -15.0px]
+  - Tab Settings                     | y=786.0..801.0 (h= 15.0, w=131.0) [Gap from prev: -15.0px]
+  - Home Indicator                   | y=838.0..843.0 (h=  5.0, w=134.0) [Gap from prev: +37.0px]
+
+==================================================
+ARTBOARD STATE_02_INITIAL_LOADING (ID: 1646) - 393x852 at (553, 1940)
+==================================================
+  - Dynamic Island                   | y= 11.0.. 43.0 (h= 32.0, w=125.0) 
+  - Time                             | y= 17.0.. 35.0 (h= 18.0, w= 60.0) [Gap from prev: -26.0px]
+  - Status                           | y= 18.0.. 33.0 (h= 15.0, w= 81.0) [Gap from prev: -17.0px]
+  - Syncing Pill Frame               | y= 55.0.. 81.0 (h= 26.0, w=103.0) [Gap from prev: +22.0px]
+  - ParkPin Brand                    | y= 56.0.. 83.0 (h= 27.0, w=120.0) [Gap from prev: -25.0px]
+  - Loading Context Card             | y= 96.0..164.0 (h= 68.0, w=353.0) [Gap from prev: +13.0px]
+  - Skeleton Spot Card               | y=178.0..358.0 (h=180.0, w=353.0) [Gap from prev: +14.0px]
+  - Skeleton History Card 1          | y=374.0..458.0 (h= 84.0, w=353.0) [Gap from prev: +16.0px]
+  - Skeleton History Card 2          | y=471.0..555.0 (h= 84.0, w=353.0) [Gap from prev: +13.0px]
+  - Skeleton History Card 3          | y=568.0..652.0 (h= 84.0, w=353.0) [Gap from prev: +13.0px]
+  - Loading Assurance                | y=700.0..730.0 (h= 30.0, w=353.0) [Gap from prev: +48.0px]
+  - Bottom Navigation Bar            | y=768.0..852.0 (h= 84.0, w=393.0) [Gap from prev: +38.0px]
+  - Nav Divider                      | y=768.0..769.0 (h=  1.0, w=393.0) [Gap from prev: -84.0px]
+  - Tab Home                         | y=786.0..801.0 (h= 15.0, w=131.0) [Gap from prev: +17.0px]
+  - Tab History                      | y=786.0..801.0 (h= 15.0, w=131.0) [Gap from prev: -15.0px]
+  - Tab Settings                     | y=786.0..801.0 (h= 15.0, w=131.0) [Gap from prev: -15.0px]
+  - Home Indicator                   | y=838.0..843.0 (h=  5.0, w=134.0) [Gap from prev: +37.0px]
+
+==================================================
+ARTBOARD STATE_03_GENERIC_ERROR (ID: 1679) - 393x852 at (1006, 1940)
+==================================================
+  - Dynamic Island                   | y= 11.0.. 43.0 (h= 32.0, w=125.0) 
+  - Time                             | y= 17.0.. 35.0 (h= 18.0, w= 60.0) [Gap from prev: -26.0px]
+  - Status                           | y= 18.0.. 33.0 (h= 15.0, w= 81.0) [Gap from prev: -17.0px]
+  - Nav Title                        | y= 56.0.. 77.0 (h= 21.0, w=393.0) [Gap from prev: +23.0px]
+  - Error Banner                     | y= 96.0..180.0 (h= 84.0, w=353.0) [Gap from prev: +19.0px]
+  - Preserved Spot Card              | y=196.0..376.0 (h=180.0, w=353.0) [Gap from prev: +16.0px]
+  - Information Card                 | y=390.0..570.0 (h=180.0, w=353.0) [Gap from prev: +14.0px]
+  - Retry Button Frame               | y=694.0..746.0 (h= 52.0, w=353.0) [Gap from prev: +124.0px]
+  - Dismiss Text                     | y=706.0..719.0 (h= 13.0, w=353.0) [Gap from prev: -40.0px]
+  - Offline Button Frame             | y=756.0..804.0 (h= 48.0, w=353.0) [Gap from prev: +37.0px]
+  - Home Indicator                   | y=838.0..843.0 (h=  5.0, w=134.0) [Gap from prev: +34.0px]
+
+==================================================
+ARTBOARD STATE_04_GPS_PERMISSION_DENIED (ID: 1705) - 393x852 at (1459, 1940)
+==================================================
+  - Dimmed Scrim                     | y=  0.0..852.0 (h=852.0, w=393.0) 
+  - Dynamic Island                   | y= 11.0.. 43.0 (h= 32.0, w=125.0) [Gap from prev: -841.0px]
+  - Time                             | y= 17.0.. 35.0 (h= 18.0, w= 60.0) [Gap from prev: -26.0px]
+  - Status                           | y= 18.0.. 33.0 (h= 15.0, w= 81.0) [Gap from prev: -17.0px]
+  - Permission Bottom Sheet          | y=310.0..852.0 (h=542.0, w=393.0) [Gap from prev: +277.0px]
+  - Home Indicator                   | y=838.0..843.0 (h=  5.0, w=134.0) [Gap from prev: -14.0px]
+
+==================================================
+ARTBOARD STATE_05_GPS_UNAVAILABLE (ID: 1728) - 393x852 at (1912, 1940)
+==================================================
+  - Dynamic Island                   | y= 11.0.. 43.0 (h= 32.0, w=125.0) 
+  - Time                             | y= 17.0.. 35.0 (h= 18.0, w= 60.0) [Gap from prev: -26.0px]
+  - Status                           | y= 18.0.. 33.0 (h= 15.0, w= 81.0) [Gap from prev: -17.0px]
+  - Cancel                           | y= 56.0.. 74.0 (h= 18.0, w= 60.0) [Gap from prev: +23.0px]
+  - Nav Title                        | y= 56.0.. 77.0 (h= 21.0, w=393.0) [Gap from prev: -18.0px]
+  - Save Action                      | y= 56.0.. 74.0 (h= 18.0, w= 63.0) [Gap from prev: -21.0px]
+  - GPS Alert Banner                 | y= 96.0..180.0 (h= 84.0, w=353.0) [Gap from prev: +22.0px]
+  - Priority Photo Card              | y=192.0..308.0 (h=116.0, w=353.0) [Gap from prev: +12.0px]
+  - Manual Structure Card            | y=320.0..556.0 (h=236.0, w=353.0) [Gap from prev: +12.0px]
+  - Last GPS Card                    | y=568.0..636.0 (h= 68.0, w=353.0) [Gap from prev: +12.0px]
+  - Save Without GPS Frame           | y=736.0..788.0 (h= 52.0, w=353.0) [Gap from prev: +100.0px]
+  - Confidence Notice                | y=798.0..811.0 (h= 13.0, w=353.0) [Gap from prev: +10.0px]
+  - Home Indicator                   | y=838.0..843.0 (h=  5.0, w=134.0) [Gap from prev: +27.0px]
+
+==================================================
+ARTBOARD STATE_06_PHOTO_UPLOAD_IN_PROGRESS (ID: 1767) - 393x852 at (2365, 1940)
+==================================================
+  - Dynamic Island                   | y= 11.0.. 43.0 (h= 32.0, w=125.0) 
+  - Time                             | y= 17.0.. 35.0 (h= 18.0, w= 60.0) [Gap from prev: -26.0px]
+  - Status                           | y= 18.0.. 33.0 (h= 15.0, w= 81.0) [Gap from prev: -17.0px]
+  - Cancel                           | y= 56.0.. 74.0 (h= 18.0, w= 60.0) [Gap from prev: +23.0px]
+  - Nav Title                        | y= 56.0.. 77.0 (h= 21.0, w=393.0) [Gap from prev: -18.0px]
+  - Save Action                      | y= 56.0.. 74.0 (h= 18.0, w= 63.0) [Gap from prev: -21.0px]
+  - Upload Progress Card             | y= 96.0..406.0 (h=310.0, w=353.0) [Gap from prev: +22.0px]
+  - Form Preview Box                 | y=420.0..630.0 (h=210.0, w=353.0) [Gap from prev: +14.0px]
+  - Save CTA Frame                   | y=736.0..788.0 (h= 52.0, w=353.0) [Gap from prev: +106.0px]
+  - Background Notice                | y=798.0..811.0 (h= 13.0, w=353.0) [Gap from prev: +10.0px]
+  - Home Indicator                   | y=838.0..843.0 (h=  5.0, w=134.0) [Gap from prev: +27.0px]
+
+==================================================
+ARTBOARD STATE_07_PHOTO_UPLOAD_FAILED (ID: 1792) - 393x852 at (100, 2860)
+==================================================
+  - Dynamic Island                   | y= 11.0.. 43.0 (h= 32.0, w=125.0) 
+  - Time                             | y= 17.0.. 35.0 (h= 18.0, w= 60.0) [Gap from prev: -26.0px]
+  - Status                           | y= 18.0.. 33.0 (h= 15.0, w= 81.0) [Gap from prev: -17.0px]
+  - Cancel                           | y= 56.0.. 74.0 (h= 18.0, w= 60.0) [Gap from prev: +23.0px]
+  - Nav Title                        | y= 56.0.. 77.0 (h= 21.0, w=393.0) [Gap from prev: -18.0px]
+  - Save Action                      | y= 56.0.. 74.0 (h= 18.0, w= 63.0) [Gap from prev: -21.0px]
+  - Upload Failure Card              | y= 96.0..352.0 (h=256.0, w=353.0) [Gap from prev: +22.0px]
+  - Preserved Details Box            | y=368.0..604.0 (h=236.0, w=353.0) [Gap from prev: +16.0px]
+  - Save Offline Button              | y=736.0..788.0 (h= 52.0, w=353.0) [Gap from prev: +132.0px]
+  - Offline Guaran                   | y=798.0..811.0 (h= 13.0, w=353.0) [Gap from prev: +10.0px]
+  - Home Indicator                   | y=838.0..843.0 (h=  5.0, w=134.0) [Gap from prev: +27.0px]
+
+==================================================
+ARTBOARD STATE_08_CLOUD_SYNC_PENDING (ID: 1821) - 393x852 at (553, 2860)
+==================================================
+  - Dynamic Island                   | y= 11.0.. 43.0 (h= 32.0, w=125.0) 
+  - Time                             | y= 17.0.. 35.0 (h= 18.0, w= 60.0) [Gap from prev: -26.0px]
+  - Status                           | y= 18.0.. 33.0 (h= 15.0, w= 81.0) [Gap from prev: -17.0px]
+  - Back                             | y= 56.0.. 74.0 (h= 18.0, w= 95.0) [Gap from prev: +23.0px]
+  - Nav Title                        | y= 56.0.. 77.0 (h= 21.0, w=393.0) [Gap from prev: -18.0px]
+  - Refresh Action                   | y= 56.0.. 74.0 (h= 18.0, w= 68.0) [Gap from prev: -21.0px]
+  - Pending Banner Card              | y= 96.0..192.0 (h= 96.0, w=353.0) [Gap from prev: +22.0px]
+  - Telemetry Tile 1                 | y=204.0..278.0 (h= 74.0, w=170.0) [Gap from prev: +12.0px]
+  - Telemetry Tile 2                 | y=204.0..278.0 (h= 74.0, w=170.0) [Gap from prev: -74.0px]
+  - Telemetry Tile 3                 | y=290.0..364.0 (h= 74.0, w=170.0) [Gap from prev: +12.0px]
+  - Telemetry Tile 4                 | y=290.0..364.0 (h= 74.0, w=170.0) [Gap from prev: -74.0px]
+  - Queue Details Box                | y=376.0..520.0 (h=144.0, w=353.0) [Gap from prev: +12.0px]
+  - Offline Info Card                | y=532.0..636.0 (h=104.0, w=353.0) [Gap from prev: +12.0px]
+  - Sync Now Button                  | y=736.0..788.0 (h= 52.0, w=353.0) [Gap from prev: +100.0px]
+  - Home Indicator                   | y=838.0..843.0 (h=  5.0, w=134.0) [Gap from prev: +50.0px]
+
+==================================================
+ARTBOARD STATE_09_CLOUD_SYNC_FAILED (ID: 1862) - 393x852 at (1006, 2860)
+==================================================
+  - Dynamic Island                   | y= 11.0.. 43.0 (h= 32.0, w=125.0) 
+  - Time                             | y= 17.0.. 35.0 (h= 18.0, w= 60.0) [Gap from prev: -26.0px]
+  - Status                           | y= 18.0.. 33.0 (h= 15.0, w= 81.0) [Gap from prev: -17.0px]
+  - Back                             | y= 56.0.. 74.0 (h= 18.0, w= 95.0) [Gap from prev: +23.0px]
+  - Nav Title                        | y= 56.0.. 77.0 (h= 21.0, w=393.0) [Gap from prev: -18.0px]
+  - Refresh Action                   | y= 56.0.. 74.0 (h= 18.0, w= 68.0) [Gap from prev: -21.0px]
+  - Sync Failed Banner               | y= 96.0..192.0 (h= 96.0, w=353.0) [Gap from prev: +22.0px]
+  - Data Safety Box                  | y=204.0..300.0 (h= 96.0, w=353.0) [Gap from prev: +12.0px]
+  - Diagnostic Box                   | y=312.0..472.0 (h=160.0, w=353.0) [Gap from prev: +12.0px]
+  - Force Sync Frame                 | y=720.0..772.0 (h= 52.0, w=353.0) [Gap from prev: +248.0px]
+  - Keep Offline Frame               | y=780.0..828.0 (h= 48.0, w=353.0) [Gap from prev: +8.0px]
+  - Home Indicator                   | y=838.0..843.0 (h=  5.0, w=134.0) [Gap from prev: +10.0px]
+
+==================================================
+ARTBOARD STATE_10_ARCHIVE_CONFIRMATION (ID: 1889) - 393x852 at (1459, 2860)
+==================================================
+  - Dimmed Scrim                     | y=  0.0..852.0 (h=852.0, w=393.0) 
+  - Dynamic Island                   | y= 11.0.. 43.0 (h= 32.0, w=125.0) [Gap from prev: -841.0px]
+  - Time                             | y= 17.0.. 35.0 (h= 18.0, w= 60.0) [Gap from prev: -26.0px]
+  - Status                           | y= 18.0.. 33.0 (h= 15.0, w= 81.0) [Gap from prev: -17.0px]
+  - Archive Bottom Sheet             | y=330.0..852.0 (h=522.0, w=393.0) [Gap from prev: +297.0px]
+  - Home Indicator                   | y=838.0..843.0 (h=  5.0, w=134.0) [Gap from prev: -14.0px]
+
+==================================================
+ARTBOARD STATE_11_AUTHENTICATION (ID: 1911) - 393x852 at (1912, 2860)
+==================================================
+  - Dynamic Island                   | y= 11.0.. 43.0 (h= 32.0, w=125.0) 
+  - Time                             | y= 17.0.. 35.0 (h= 18.0, w= 60.0) [Gap from prev: -26.0px]
+  - Status                           | y= 18.0.. 33.0 (h= 15.0, w= 81.0) [Gap from prev: -17.0px]
+  - Brand Title                      | y= 60.0.. 94.0 (h= 34.0, w=393.0) [Gap from prev: +27.0px]
+  - Brand Sub                        | y= 96.0..109.0 (h= 13.0, w=393.0) [Gap from prev: +2.0px]
+  - Auth Card                        | y=128.0..594.0 (h=466.0, w=353.0) [Gap from prev: +19.0px]
+  - Offline Assurance Box            | y=612.0..696.0 (h= 84.0, w=353.0) [Gap from prev: +18.0px]
+  - Skip Link                        | y=720.0..735.0 (h= 15.0, w=353.0) [Gap from prev: +24.0px]
+  - Home Indicator                   | y=838.0..843.0 (h=  5.0, w=134.0) [Gap from prev: +103.0px]

@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+  }
+
+  body {
+    background-color: #F5F3EE;
+    color: #1A2C2E;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+}
+
+/* Standar Ukuran Tombol Ergonomis Mobile (Anti-Gepeng) */
+@layer components {
+  .btn-primary {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    height: 56px !important;
+    min-height: 56px !important;
+    padding-left: 1.25rem !important;
+    padding-right: 1.25rem !important;
+    border-radius: 1rem !important;
+    font-weight: 700 !important;
+    font-size: 0.9375rem !important; /* 15px */
+    letter-spacing: -0.01em !important;
+    background-color: #243B3D !important;
+    color: #F5F3EE !important;
+    box-shadow: 0 4px 16px -4px rgba(36, 59, 61, 0.16) !important;
+    transition: transform 0.15s ease, background-color 0.15s ease !important;
+  }
+
+  .btn-primary:active {
+    transform: scale(0.98) !important;
+  }
+
+  .btn-secondary {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    height: 56px !important;
+    min-height: 56px !important;
+    padding-left: 1.25rem !important;
+    padding-right: 1.25rem !important;
+    border-radius: 1rem !important;
+    font-weight: 700 !important;
+    font-size: 0.9375rem !important;
+    background-color: #FFFFFF !important;
+    color: #1A2C2E !important;
+    border: 1.5px solid #E5E1D8 !important;
+    box-shadow: 0 2px 8px -2px rgba(36, 59, 61, 0.06) !important;
+    transition: transform 0.15s ease, background-color 0.15s ease !important;
+  }
+
+  .btn-secondary:active {
+    transform: scale(0.98) !important;
+  }
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { transform: translateY(100%); }
+  to { transform: translateY(0); }
+}
+
+@keyframes scaleUp {
+  from { opacity: 0; transform: scale(0.95); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-slide-up {
+  animation: slideUp 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-scale-up {
+  animation: scaleUp 0.25s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#243B3D"/>
+  <circle cx="256" cy="220" r="130" fill="#E2ECE9"/>
+  <circle cx="256" cy="220" r="108" fill="#243B3D"/>
+  <!-- Parking 'P' -->
+  <path d="M226 150 h52 c32 0 54 18 54 46 s-22 46 -54 46 h-28 v50 h-24 z m24 22 v48 h26 c18 0 30 -10 30 -24 s-12 -24 -30 -24 z" fill="#F5F3EE"/>
+  <!-- Pin Needle / Drop Marker -->
+  <polygon points="256,410 230,340 282,340" fill="#D9BFA3"/>
+  <circle cx="256" cy="336" r="16" fill="#D9BFA3"/>
+</svg>
